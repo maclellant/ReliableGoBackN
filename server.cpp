@@ -34,9 +34,11 @@
 #define DEL 4
 #define TRN 5
 
-void receive_commands(int sockfd)
+void receive_command(int sockfd)
 {
     Packet buffer;
+    struct sockaddr_in client_addr;
+    socklen_t slen = sizeof(client_addr);
 
     while (1)
     {
@@ -49,10 +51,7 @@ void receive_commands(int sockfd)
             exit(EXIT_FAILURE);
         }
 
-        do
-        {
-            /* code */
-        } while (/* condition */);
+
     }
 }
 

@@ -3,6 +3,7 @@
 
 #include <stdlib.h>
 #include <stdint.h>
+#include <string.h>
 
 #define ACK 0
 #define NAK 1
@@ -23,6 +24,11 @@ struct Packet
 	uint16_t size() { return *((uint16_t*)(data + 4)); }
 	char* data() { return (char*)(buffer + 6); }
 };
+
+std::string packet_string(const Packet& packet);
+std::string packet_string(const Packet& packet, size_t size);
+
+std::string
 
 int checksum(char *msg, size_t len);
 int checksum(const Packet& packet, size_t len);
