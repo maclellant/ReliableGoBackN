@@ -14,7 +14,7 @@
 #include <stdint.h>
 #include <iostream>
 #include <errno.h>
-#include <numeric>
+#include <vector>
 
 #include "server.h"
 #include "timers.h"
@@ -27,12 +27,6 @@
 #define SERVER_PORT 10050
 #define SERVER_TIMEOUT_MSEC 10
 
-#define ACK 0
-#define NAK 1
-#define GET 2
-#define PUT 3
-#define DEL 4
-#define TRN 5
 
 void receive_command(int sockfd)
 {
@@ -44,37 +38,69 @@ void receive_command(int sockfd)
     {
         std::cout << "Waiting for client connection..." << std::endl << std::endl;
 
-        if (recvfrom(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*)&client_addr, &slen) == -1)
+        int receiver = recvfrom(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*)&client_addr, &slen);
+        if (receiver < -1)
         {          
             std::cerr << "Error: Could not receive from client" << std::endl;
             close(sockfd);
             exit(EXIT_FAILURE);
         }
-
-        if (packet.type() == GET)
+        else if (receiver == 0)
         {
-            std::string filename = packet_string(packet);
+            continue;
+        }
+        else
+        {
+            if (packet.type() == GET)
+            {
+                std::string filename = packet_string(packet);
 
-            if (filename.empty())
-            {
-                std::cout << "Warning: Received invalid filename request: Discarding\n";
-            }
-            else if (filename == SUCCESS_MSG)
-            {
-                std::cout << "Warning: Received success message: Discarding\n";
-            }
-            else
-            {
-                std::cout << "Received GET request from client\n\n";
-                send_file(filename, client_addr);
+                if (filename.empty())
+                {
+                    std::cout << "Warning: Received invalid filename request: Discarding\n\n";
+                }
+                else if (filename == SUCCESS_MSG)
+                {
+                    std::cout << "Warning: Received success message: Discarding\n\n";
+                }
+                else
+                {
+                    std::cout << "Received GET request from client\n\n";
+                    send_file(filename, client_addr);
+                }
             }
         }
     }
 }
 
-void send_file(std::string filename, struct sockaddr_in client_addr)
+int send_file(std::string filename, struct sockaddr_in client_addr)
 {
+    FILE *infile;
+    infile = fopen(filename.c_str(), "rb");
+    if (infile == NULL)
+    {
+        std::cerr << "Error: Could not open file: " << filename << std::endl;
+        return;
+    }
 
+    int current_seq = 0;
+    vector<Packet> packets;
+    vector<Timer> timers;
+
+    size_t numread = 0;
+    while(!feof(infile))
+    {
+        char data[PACKET_SIZE - HEADER_SIZE];
+        bzero(data, PACKET_SIZE - HEADER_SIZE);
+        numread = fread(data, 1, PACKET_SIZE - HEADER_SIZE, infile);
+        if (numread != PACKET_SIZE - HEADER_SIZE && !feof(infile))
+        {
+            fclose(infile);
+            close(sockfd);
+            std::cerr << "Error: Could not properly read file: " << filename << std::endl;
+            exit(EXIT_FAILURE);
+        }
+    }
 }
 
 int main(int argc, char** argv)

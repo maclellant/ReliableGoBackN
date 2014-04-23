@@ -11,6 +11,7 @@
 #define TRN 3
 
 #define PACKET_SIZE 512
+#define HEADER_SIZE 6
 #define SEQ_NUM 32
 #define WINDOW_SIZE 16
 
@@ -25,6 +26,21 @@ struct Packet
 	uint16_t checksum() { return *((uint16_t*)(data + 2)); }
 	uint16_t size() { return *((uint16_t*)(data + 4)); }
 	char* data() { return (char*)(buffer + 6); }
+
+	Packet(char* segment, uint16_t length, uint8_t sequence, uint8_t type)
+	{
+		char* data = (char*)(buffer + 6);
+		uint16_t* size = (uint16_t*)(buffer + 4);
+		uint16_t* checksum = (uint16_t*)(buffer + 2);
+		uint8_t* seq = (uint8_t*)(buffer + 1);
+		uint8_t* packet_type = (uint8_t*)(buffer + 0);
+
+		memcpy(data, segment, length);
+		*size = length;
+		*seq = sequence;
+		*packet_type = type;
+		*checksum = checksum(data, (uint16_t)*size);
+	}
 };
 
 std::string packet_string(const Packet& packet);
