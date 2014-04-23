@@ -19,6 +19,7 @@
 #include <errno.h>
 #include <iostream>
 #include <numeric>
+#include <util.h>
 
 //#define SERVER_PORT 10050
 
@@ -125,5 +126,79 @@ int main(int argc, char** argv)
 }
 
 
+// request file
+void request_func(int sockfd)
+{
 
+}
 
+// receive file
+void receive_func(int sockfd, char* filename)
+{
+	Packet packet;
+	int cur_seq;
+	int exp_seq;
+	FILE *outfile;
+	
+
+	while(1)
+	{
+		if (recvfrom(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*)&client_addr, &slen)==-1)
+		{
+	    	fprintf(stderr, "Error: Could not receive from client\n");
+	    	close(sockfd);
+            exit(EXIT_FAILURE);
+        }
+        uint8_t packet_type = packet.type();
+        uint8_t seq_num = packet.sequence();
+        uint16_t checksum = packet.checksum();
+        uint16_t data_size = packet.size();
+        char* data = buffer.data();
+        cur_seq = (int) seq_num;
+
+        switch(packet_type) {
+            case ACK:
+                printf("Why are you receiving an ACK?");
+            break;
+            case NAK:
+                printf("Why are you receiving a NAK?");
+            break;
+            case GET:
+                printf("Why are you receiving a GET?");
+            break;
+            case PUT:
+                printf("Why are you receiving a PUT?")
+            break;
+            case DEL:
+                printf("Why are you receiving a DEL?");
+            break;
+            case TRN:
+                if(exp_seq == cur_seq) {
+                    if(data_size > 0) {
+                        fwrite(data, 1, data_size, outfile);
+                        //Updating the expected sequence number.
+                        exp_seq = (exp_seq + 1) % 2;
+                    }
+                    else {
+                        fclose(outfile);
+                        exp_seq = 0;
+                    }
+                    send_ack = true;
+                }
+                else {
+                    printf("Transfer has not yet been initialized.");
+                    send_ack = false;
+                }
+            break;
+            default:
+                printf("Packet type not supported");
+            break;
+        }
+	}
+}
+
+//close file
+void close_func(int sockfd)
+{
+
+}
