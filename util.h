@@ -27,6 +27,21 @@ struct Packet
 	uint16_t size() { return *((uint16_t*)(data + 4)); }
 	char* data() { return (char*)(buffer + 6); }
 
+	Packet(uint8_t sequence, uint8_t type)
+	{
+		bzero(buffer, PACKET_SIZE);
+
+		uint16_t* size = (uint16_t*)(buffer + 4);
+		uint16_t* checksum = (uint16_t*)(buffer + 2);
+		uint8_t* seq = (uint8_t*)(buffer + 1);
+		uint8_t* packet_type = (uint8_t*)(buffer + 0);
+
+		*size = 0;
+		*seq = sequence;
+		*packet_type = type;
+		*checksum = 0;
+	}
+
 	Packet(char* segment, uint16_t length, uint8_t sequence, uint8_t type)
 	{
 		char* data = (char*)(buffer + 6);
@@ -35,6 +50,7 @@ struct Packet
 		uint8_t* seq = (uint8_t*)(buffer + 1);
 		uint8_t* packet_type = (uint8_t*)(buffer + 0);
 
+		bzero(buffer, PACKET_SIZE);
 		memcpy(data, segment, length);
 		*size = length;
 		*seq = sequence;
