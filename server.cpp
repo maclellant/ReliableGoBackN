@@ -100,7 +100,15 @@ int send_file(std::string filename, struct sockaddr_in client_addr)
             std::cerr << "Error: Could not properly read file: " << filename << std::endl;
             exit(EXIT_FAILURE);
         }
+
+        Packet packet = Packet(data, numread, current_seq, TRN);
+        Timer timer = Timer();
+        packets.push_back(packet);
+        timers.push_back(timer);
+        current_seq++;
     }
+
+
 }
 
 int main(int argc, char** argv)
