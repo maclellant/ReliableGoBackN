@@ -28,8 +28,6 @@ struct Packet
 std::string packet_string(const Packet& packet);
 std::string packet_string(const Packet& packet, size_t size);
 
-std::string
-
 int checksum(char *msg, size_t len);
 int checksum(const Packet& packet, size_t len);
 
