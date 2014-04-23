@@ -51,7 +51,10 @@ delay amount
 int main(int argc, char** argv)
 {
 	if(argc != 10) {
-
+		std::cout << "Usage: " << argv[0] << " ";
+        std::cout << "<client-port> <server-IP> <server-port> <func> <filename> ";
+        std::cout << "<corrupt %%> <loss %%> <delay %%> <delay-amount>" << std::endl;
+        exit(EXIT_FAILURE);
 	}
 
 	unsigned short client_port = (unsigned short) strtoul(argv[1], NULL, 0);
@@ -85,7 +88,7 @@ int main(int argc, char** argv)
     if (packet_type == 255)
     {
     	std::cerr << "Error: Given function command not valid: " << type << std::endl;
-    	std::cerr << "Please use PUT, GET, or DEL" << std::endl;
+    	std::cerr << "Please use GET" << std::endl;
     	exit(EXIT_FAILURE);
     }
 
