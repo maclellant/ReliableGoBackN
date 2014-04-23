@@ -14,6 +14,8 @@
 #define SEQ_NUM 32
 #define WINDOW_SIZE 16
 
+#define SUCCESS_MSG "successfully completed"
+
 struct Packet
 {
 	char buffer[PACKET_SIZE];

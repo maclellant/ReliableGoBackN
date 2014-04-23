@@ -7,9 +7,9 @@ int checksum(char *msg, size_t len)
 	return int(std::accumulate(msg, msg + len, (unsigned char) 0));
 }
 
-int checksum(const Packet& packet, size_t len)
+int checksum(const Packet& packet)
 {
-	return int(std::accumulate(packet.data, packet.data + len, (unsigned char) 0));
+	return int(std::accumulate(packet.data, packet.data + (size_t)packet.size(), (unsigned char) 0));
 }
 
 std::string packet_string(const Packet& packet)

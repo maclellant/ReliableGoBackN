@@ -36,7 +36,7 @@
 
 void receive_command(int sockfd)
 {
-    Packet buffer;
+    Packet packet;
     struct sockaddr_in client_addr;
     socklen_t slen = sizeof(client_addr);
 
@@ -44,15 +44,37 @@ void receive_command(int sockfd)
     {
         std::cout << "Waiting for client connection..." << std::endl << std::endl;
 
-        if (recvfrom(sockfd, buffer.data, PACKET_SIZE, 0, (struct sockaddr*)&client_addr, &slen) == -1)
+        if (recvfrom(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*)&client_addr, &slen) == -1)
         {          
             std::cerr << "Error: Could not receive from client" << std::endl;
             close(sockfd);
             exit(EXIT_FAILURE);
         }
 
+        if (packet.type() == GET)
+        {
+            std::string filename = packet_string(packet);
 
+            if (filename.empty())
+            {
+                std::cout << "Warning: Received invalid filename request: Discarding\n";
+            }
+            else if (filename == SUCCESS_MSG)
+            {
+                std::cout << "Warning: Received success message: Discarding\n";
+            }
+            else
+            {
+                std::cout << "Received GET request from client\n\n";
+                send_file(filename, client_addr);
+            }
+        }
     }
+}
+
+void send_file(std::string filename, struct sockaddr_in client_addr)
+{
+
 }
 
 int main(int argc, char** argv)
