@@ -138,11 +138,15 @@ void receive_func(int sockfd, char* filename)
 	Packet packet;
 	int cur_seq;
 	int exp_seq;
+	bool send_ack = false;
+	bool send_nack = false;
 	FILE *outfile;
-	
+	outfile = fopen(filename, "wb");
 
 	while(1)
 	{
+		std:cout << "Waiting for data packet : " << exp_seq << std::endl;
+
 		if (recvfrom(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*)&client_addr, &slen)==-1)
 		{
 	    	fprintf(stderr, "Error: Could not receive from client\n");
@@ -156,44 +160,93 @@ void receive_func(int sockfd, char* filename)
         char* data = buffer.data();
         cur_seq = (int) seq_num;
 
+        send_ack = false;
+        send_nackk = false;
+
         switch(packet_type) {
             case ACK:
-                printf("Why are you receiving an ACK?");
+                std::cout << "ACKNOWLEDGE: Packet discarded" << std::endl << std::endl;
             break;
             case NAK:
-                printf("Why are you receiving a NAK?");
+                std::cout << "NOT ACKNOWLEDGE: Packet discarded" << std::endl << std::endl;
             break;
             case GET:
-                printf("Why are you receiving a GET?");
+                std::cout << "GET: Packet discarded" << std::endl << std::endl;
             break;
             case PUT:
-                printf("Why are you receiving a PUT?")
+                std::cout << "PUT: Packet discarded" << std::endl << std::endl;
             break;
             case DEL:
-                printf("Why are you receiving a DEL?");
+                std::cout << "DEL: Packet discarded" << std::endl << std::endl;
             break;
             case TRN:
                 if(exp_seq == cur_seq) {
-                    if(data_size > 0) {
-                        fwrite(data, 1, data_size, outfile);
-                        //Updating the expected sequence number.
-                        exp_seq = (exp_seq + 1) % 2;
+                    if(checksum == checksum(packet)) {
+                    	if(data_size > 0)
+                    	{
+                        	fwrite(data, 1, data_size, outfile);
+                        	//Updating the expected sequence number.
+                        	exp_seq = (exp_seq + 1) % 32;
+                        }
+                        else
+                        {
+                        	fclose(outfile);
+                        	exp_seq = 0;
+                        	std:cout << "RECEIVED: close packet for file transfer: closing transfer" 
+                        		<< std::endl;
+                        }
+                        send_ack = true;
                     }
                     else {
-                        fclose(outfile);
-                        exp_seq = 0;
+                        std::cout << "RECEIVED: sequence " << (int)cur_seq << ": damaged packet"
+                        	<< std::endl;
+                        send_nack = true;
                     }
-                    send_ack = true;
                 }
                 else {
-                    printf("Transfer has not yet been initialized.");
-                    send_ack = false;
+                    std::cout << "RECEIVED: sequence " << (int)cur_seq << ": incorrect sequence number" 
+                    	<< std::endl << std::endl;
+                    send_ack = true;
                 }
             break;
             default:
-                printf("Packet type not supported");
+                printf("UNKNOWN PACKET TYPE: Packet discarded");
             break;
         }
+
+        if(send_ack) {
+			bzero(buffer, 128);
+
+			*packet_type = ACK;
+			*seq_num = cur_seq;
+            *data_size = 0;
+
+            std::cout << "SENDING ACK: sequence " << cur_seq << std::endl << std::endl << std::endl;
+		
+			if (sendto(sockfd, buffer, PACKET_SIZE, 0, (struct sockaddr*) &client_addr, slen) == -1)
+			{
+				perror("Error: could not send acknowledge to client\n");
+				close(sockfd);
+				exit(EXIT_FAILURE);
+			}
+		}
+        else if (send_nack) {
+            bzero(buffer, 128);
+
+            *packet_type = NAK;
+            *seq_num = cur_seq;
+            *data_size = 0;
+
+            std::cout << "SENDING NAK: sequence " << cur_seq << std::endl << std::endl << std::endl;
+        
+            if (sendto(sockfd, buffer, PACKET_SIZE, 0, (struct sockaddr*) &client_addr, slen) == -1)
+            {
+                perror("Error: could not send acknowledge to client\n");
+                close(sockfd);
+                exit(EXIT_FAILURE);
+            }
+        }
+
 	}
 }
 
@@ -202,3 +255,4 @@ void close_func(int sockfd)
 {
 
 }
+
