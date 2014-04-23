@@ -1,6 +1,9 @@
 #ifndef UTIL_H
 #define UTIL_H
 
+#include <stdlib.h>
+#include <stdint.h>
+
 #define ACK 0
 #define NAK 1
 #define GET 2
@@ -12,7 +15,13 @@
 
 struct Packet
 {
-	char[PACKET_SIZE] data;
+	char buffer[PACKET_SIZE];
+
+	uint8_t type() { return *((uint8_t*)(data + 0)); }
+	uint8_t sequence() { return *((uint8_t*)(data + 1)); }
+	uint16_t checksum() { return *((uint16_t*)(data + 2)); }
+	uint16_t size() { return *((uint16_t*)(data + 4)); }
+	char* data() { return (char*)(buffer + 6); }
 };
 
 int checksum(char *msg, size_t len);

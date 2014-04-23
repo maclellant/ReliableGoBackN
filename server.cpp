@@ -25,7 +25,7 @@
 #define WINDOW_SIZE 16
 
 #define SERVER_PORT 10050
-#define SERVER_TIMEOUT_MSEC
+#define SERVER_TIMEOUT_MSEC 10
 
 #define ACK 0
 #define NAK 1
@@ -34,8 +34,27 @@
 #define DEL 4
 #define TRN 5
 
-/* Prototypes */
-int checksum(char *, size_t);
+void receive_commands(int sockfd)
+{
+    Packet buffer;
+
+    while (1)
+    {
+        std::cout << "Waiting for client connection..." << std::endl << std::endl;
+
+        if (recvfrom(sockfd, buffer.data, PACKET_SIZE, 0, (struct sockaddr*)&client_addr, &slen) == -1)
+        {          
+            std::cerr << "Error: Could not receive from client" << std::endl;
+            close(sockfd);
+            exit(EXIT_FAILURE);
+        }
+
+        do
+        {
+            /* code */
+        } while (/* condition */);
+    }
+}
 
 int main(int argc, char** argv)
 {
