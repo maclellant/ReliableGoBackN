@@ -28,7 +28,7 @@
 #define SERVER_TIMEOUT_MSEC 10
 
 
-void receive_command(int sockfd)
+void receive_commands(int sockfd)
 {
     Packet packet;
     struct sockaddr_in client_addr;
@@ -66,14 +66,18 @@ void receive_command(int sockfd)
                 else
                 {
                     std::cout << "Received GET request from client\n\n";
-                    send_file(filename, client_addr);
+                    vector<Packet> packets;
+                    vector<Timer> timers;
+                    parse_file(filename, packets, timers);
+                    send_packets(sockfd, client_addr, packets, timers);
+                    send_success_msg(sockfd, client_addr);
                 }
             }
         }
     }
 }
 
-int send_file(std::string filename, struct sockaddr_in client_addr)
+void parse_file(const std::string& filename, const vector<Packet>& packets, const vector<Timer>& timers)
 {
     FILE *infile;
     infile = fopen(filename.c_str(), "rb");
@@ -84,10 +88,8 @@ int send_file(std::string filename, struct sockaddr_in client_addr)
     }
 
     int current_seq = 0;
-    vector<Packet> packets;
-    vector<Timer> timers;
-
     size_t numread = 0;
+
     while(!feof(infile))
     {
         char data[PACKET_SIZE - HEADER_SIZE];
@@ -108,6 +110,20 @@ int send_file(std::string filename, struct sockaddr_in client_addr)
         current_seq++;
     }
 
+    fclose(infile);
+}
+
+void send_packets(int sockfd, struct sockaddr_in client_addr, const vector<Packet>& packets, const vector<Timer>& timers)
+{
+    int window_end = packets.size();
+    int window_base = 0;
+    int current = 0;
+
+    
+}
+
+void send_success_msg(int sockfd, struct sockaddr_in client_addr)
+{
 
 }
 
