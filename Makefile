@@ -1,10 +1,10 @@
 all : client server
 
-client : | dirtree
+client :
 	g++ client.cpp -o client/client
 
-server : | dirtree
+server :
 	g++ server.cpp -o server/server
 
-dirtree :
-	@mkdir server client
+clean :
+	rm -rf server/server client/client
