@@ -28,7 +28,7 @@
 #define SERVER_TIMEOUT_MSEC 10
 
 
-void receive_commands(int sockfd)
+void receive_commands(int sockfd, int delay_ms)
 {
     Packet packet;
     struct sockaddr_in client_addr;
@@ -68,8 +68,7 @@ void receive_commands(int sockfd)
                     std::cout << "Received GET request from client\n\n";
                     vector<Packet> packets;
                     vector<Timer> timers;
-                    parse_file(filename, packets, timers);
-                    send_packets(sockfd, client_addr, packets, timers);
+                    send_file(filename, sockfd, client_addr, delay_ms);
                     send_success_msg(sockfd, client_addr);
                 }
             }
@@ -113,13 +112,51 @@ void parse_file(const std::string& filename, const vector<Packet>& packets, cons
     fclose(infile);
 }
 
-void send_packets(int sockfd, struct sockaddr_in client_addr, const vector<Packet>& packets, const vector<Timer>& timers)
+void send_file(std::string filename, int sockfd, struct sockaddr_in client_addr, int delay_ms)
 {
+    socklen_t slen = sizeof(client_addr);
+    
+    vector<Packet> packets;
+    vector<Timer> timers;
+    parse_file(filename, packets, timers);
+
     int window_end = packets.size();
     int window_base = 0;
     int current = 0;
 
-    
+    vector<Packet> delay_packets;
+    vector<Timer> delay_timers;
+
+
+    while (window_base < window_end)
+    {
+        // Check on the delayed packets
+        if (!delay_timers.empty())
+        {
+            for (int i = 0; i < delay_timers.size())
+            {
+                if (delay_timers[i].timeout(delay_ms))
+                {
+                    if (sendto(sockfd, delay_packets[i].buffer, PACKET_SIZE, 0, (struct sockaddr*) &client_addr, slen) == -1)
+                    {
+                        std::cerr << "Error: could not send packet to client" << std::endl;
+                        close(sockfd);
+                        exit(EXIT_FAILURE);
+                    }
+
+                    delay_timers.erase(delay_timers.begin() + i);
+                    delay_packets.erase(delay_packets.begin() + i);
+                    break;
+                }
+            }
+        }
+        else if (current < (window_base + WINDOW_SIZE))
+        {
+
+        }
+
+
+    }
 }
 
 void send_success_msg(int sockfd, struct sockaddr_in client_addr)
