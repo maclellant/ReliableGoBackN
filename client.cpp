@@ -44,17 +44,12 @@ server ip
 server port
 function (get, put)
 file name
-corrupt percent
-loss percent
-delay percent
-delay amount
 */
 int main(int argc, char** argv)
 {
-	if(argc != 10) {
+	if(argc != 6) {
 		std::cout << "Usage: " << argv[0] << " ";
         std::cout << "<client-port> <server-IP> <server-port> <func> <filename> ";
-        std::cout << "<corrupt %%> <loss %%> <delay %%> <delay-amount>" << std::endl;
         exit(EXIT_FAILURE);
 	}
 
@@ -62,8 +57,6 @@ int main(int argc, char** argv)
 	unsigned short server_port = (unsigned short) strtoul(argv[3], NULL, 0);
 	char* type = argv[4];
     char* filename = argv[5];
-    float corrupt_chance = atof(argv[6]);
-    float loss_chance = atof(argv[7]);
 
     int sockfd;
     uint8_t packet_type = 255;
@@ -139,15 +132,16 @@ void receive_func(int sockfd, char* filename)
 	int cur_seq;
 	int exp_seq;
 	bool send_ack = false;
-	bool send_nack = false;
+	bool send_nak = false;
 	FILE *outfile;
 	outfile = fopen(filename, "wb");
+	struct 
 
 	while(1)
 	{
 		std:cout << "Waiting for data packet : " << exp_seq << std::endl;
 
-		if (recvfrom(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*)&client_addr, &slen)==-1)
+		if (recvfrom(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*)&server, &slen)==-1)
 		{
 	    	fprintf(stderr, "Error: Could not receive from client\n");
 	    	close(sockfd);
@@ -161,7 +155,7 @@ void receive_func(int sockfd, char* filename)
         cur_seq = (int) seq_num;
 
         send_ack = false;
-        send_nackk = false;
+        send_nak = false;
 
         switch(packet_type) {
             case ACK:
@@ -200,7 +194,7 @@ void receive_func(int sockfd, char* filename)
                     else {
                         std::cout << "RECEIVED: sequence " << (int)cur_seq << ": damaged packet"
                         	<< std::endl;
-                        send_nack = true;
+                        send_nak = true;
                     }
                 }
                 else {
@@ -215,31 +209,21 @@ void receive_func(int sockfd, char* filename)
         }
 
         if(send_ack) {
-			bzero(buffer, 128);
-
-			*packet_type = ACK;
-			*seq_num = cur_seq;
-            *data_size = 0;
-
+			Packet packet = Packet(exp_seq, ACK);
             std::cout << "SENDING ACK: sequence " << cur_seq << std::endl << std::endl << std::endl;
 		
-			if (sendto(sockfd, buffer, PACKET_SIZE, 0, (struct sockaddr*) &client_addr, slen) == -1)
+			if (sendto(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*) &server, slen) == -1)
 			{
 				perror("Error: could not send acknowledge to client\n");
 				close(sockfd);
 				exit(EXIT_FAILURE);
 			}
 		}
-        else if (send_nack) {
-            bzero(buffer, 128);
-
-            *packet_type = NAK;
-            *seq_num = cur_seq;
-            *data_size = 0;
-
+        else if (send_nak) {
+			Packet packet = Packet(exp_seq, ACK);            
             std::cout << "SENDING NAK: sequence " << cur_seq << std::endl << std::endl << std::endl;
         
-            if (sendto(sockfd, buffer, PACKET_SIZE, 0, (struct sockaddr*) &client_addr, slen) == -1)
+            if (sendto(sockfd, packet.buffer, PACKET_SIZE, 0, (struct sockaddr*) &server, slen) == -1)
             {
                 perror("Error: could not send acknowledge to client\n");
                 close(sockfd);
