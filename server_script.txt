@@ -1,0 +1,8506 @@
+Script started on Wed 23 Apr 2014 11:32:42 PM CDT
+[01;32mmaclellant@maclellant-virtual-machine[01;34m /mnt/hgfs/ReliableGoBackN/server $[00m ./server 20 20  20 5
+Successfully bound server to port 10050 and listening for clients...
+
+Waiting for client connection...
+
+Received GET request from client
+
+SENDING: sequence 0
+DATA:
+INFERNO
+
+CANTO 1
+
+MIDWAY upon the journey of our
+
+SENDING: sequence 1
+DATA:
+the true way.
+
+But after I had reached a mountai
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 2
+DATA:
+r perilous and gazes;
+
+So did my soul, that stil
+
+DAMAGED DATA: sequence 1
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 1
+DATA:
+the true way.
+
+But after I had reached a mountai
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 2
+DATA:
+r perilous and gazes;
+
+So did my soul, that stil
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 3
+DATA:
+
+
+The time was the beginning of the morning,
+And
+
+DAMAGED DATA: sequence 3
+
+SENDING: sequence 3
+DATA:
+
+
+The time was the beginning of the morning,
+And
+
+DAMAGED DATA: sequence 3
+
+SENDING: sequence 5
+DATA:
+here the sun is silent
+
+While I was rushing down
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 7
+DATA:
+e impelled me to explore thy volume!
+
+Thou art m
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 8
+DATA:
+ass her way,
+But so doth harass him, that she de
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 9
+DATA:
+unt the maid Camilla died,
+Euryalus, Turnus, Nis
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 10
+DATA:
+ contented are
+Within the fire, because they hop
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 11
+DATA:
+entreat,
+By that same God whom thou didst never 
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 12
+DATA:
+retrace, that erreth not.
+
+O Muses, O high geniu
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 13
+DATA:
+hat,
+
+To men of intellect unmeet it seems not;
+F
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 14
+DATA:
+tion's way is the beginning.
+
+But I, why thither
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 15
+DATA:
+o very prompt in the beginning.
+
+"If I have well
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 16
+DATA:
+wise, I besought her to command me.
+
+Her eyes wh
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 17
+DATA:
+m that which I have heard of him in Heaven.
+
+Bes
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 18
+DATA:
+thin the heaven that has the lesser circles,
+
+So
+
+ACKNOLEDGE: sequence 3
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 3
+DATA:
+
+
+The time was the beginning of the morning,
+And
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 4
+DATA:
+afraid of him;
+
+And a she-wolf, that with all hu
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 5
+DATA:
+here the sun is silent
+
+While I was rushing down
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 6
+DATA:
+e and Iying gods.
+
+A poet was I, and I sang that
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 7
+DATA:
+e impelled me to explore thy volume!
+
+Thou art m
+
+ACKNOLEDGE: sequence 8
+
+SENDING: sequence 8
+DATA:
+ass her way,
+But so doth harass him, that she de
+
+DAMAGED DATA: sequence 8
+
+SENDING: sequence 8
+DATA:
+ass her way,
+But so doth harass him, that she de
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 11
+DATA:
+entreat,
+By that same God whom thou didst never 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 12
+DATA:
+retrace, that erreth not.
+
+O Muses, O high geniu
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 13
+DATA:
+hat,
+
+To men of intellect unmeöt it seems not;
+F
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 14
+DATA:
+tion's way is the beginning.
+
+But I, why thither
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 15
+DATA:
+o very prompt in the beginning.
+
+"If I have well
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 16
+DATA:
+wise, I besought her to command me.
+
+Her eyes wh
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 17
+DATA:
+m that which I have heard of him in Heaven.
+
+Bes
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 18
+DATA:
+thin the heaven that has the lesser circles,
+
+So
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 19
+DATA:
+ others harm;
+Of the rest, no; because they are 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 20
+DATA:
+e I was sitting with the ancient Rachel.
+
+"Beatr
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 21
+DATA:
+ignified discourse,
+Which honours thee, and thos
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 23
+DATA:
+so with desire disposed
+To the adventure, with t
+
+ACKNOLEDGE: sequence 9
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 9
+DATA:
+unt the maid Camilla died,
+Euryalus, Turnus, Nis
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 10
+DATA:
+ contented are
+Within the fire, because they hop
+
+DAMAGED DATA: sequence 10
+
+SENDING: sequence 10
+DATA:
+ contented are
+Within the fire, because they hop
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 12
+DATA:
+retrace, that erreth not.
+
+O Muses, O high geniu
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 13
+DATA:
+hat,
+
+To men of intellect unmeet it seems not;
+F
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 15
+DATA:
+o very prompt in the beginning.
+
+"If I have well
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 16
+DATA:
+wise, I besought her to command me.
+
+Her eyes wh
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 17
+DATA:
+m that which I have heard of him in Heaven.
+
+Bes
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 18
+DATA:
+thin the heaven that has the lesser circles,
+
+So
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 19
+DATA:
+ others harm;
+Of the rest, no; because they are 
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 20
+DATA:
+e I was sitting with the ancient Rachel.
+
+"Beatr
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 21
+DATA:
+ignified discourse,
+Which honours thee, and thos
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 22
+DATA:
+ing for thee in the court of Heaven,
+And so much
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 23
+DATA:
+so with desire disposed
+To the adventure, with t
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 24
+DATA:
+he primal Love.
+
+Before me there were no created
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 25
+DATA:
+after he had laid his hand on mine
+With joyful m
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 26
+DATA:
+ had my head with horror bound,
+Said:"Master, wh
+
+ACKNOLEDGE: sequence 11
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 11
+DATA:
+entreat,
+By that same God whom thou didst never 
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 12
+DATA:
+retrace, that erreth not.
+
+O Muses, O high geniu
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 13
+DATA:
+hat,
+
+To men of intellect unmeet it söems not;
+F
+
+DAMAGED DATA: sequence 13
+
+SENDING: sequence 13
+DATA:
+hat,
+
+To men of intellect unmeet it seems not;
+F
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 14
+DATA:
+tion's way is the beginning.
+
+But I, why thither
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 15
+DATA:
+o very prompt in the beginning.
+
+"If I have well
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 16
+DATA:
+wise, I besought her to command me.
+
+Her eyes wh
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 17
+DATA:
+m that which I have heard of him in Heaven.
+
+Bes
+
+DAMAGED DATA: sequence 17
+
+SENDING: sequence 18
+DATA:
+thin the heaven that has the lesser circles,
+
+So
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 19
+DATA:
+ others harm;
+Of the rest, no; because they are 
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 20
+DATA:
+e I was sitting with the ancient Rachel.
+
+"Beatr
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 21
+DATA:
+ignified discourse,
+Which honours thee, and thos
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 22
+DATA:
+ing for thee in the court of Heaven,
+And so much
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 23
+DATA:
+so with desire disposed
+To the adventure, with t
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 25
+DATA:
+after he had laid his hand on mine
+With joyful m
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 27
+DATA:
+them."
+
+And I: "O Master, what so grievous is
+To
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 28
+DATA:
+ me indignant;
+
+And after it there came so long 
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 29
+DATA:
+here.
+
+These did their faces irrigate with blood
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 30
+DATA:
+cheron."
+
+Then with mine eyes ashamed and downwa
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 31
+DATA:
+ did not withdraw,
+
+He said:"By other ways, by o
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 0
+DATA:
+ together,
+As soon as they had heard those cruel
+
+ACKNOLEDGE: sequence 17
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 17
+DATA:
+m that which I have heard of him in Heaven.
+
+Bes
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 19
+DATA:
+ others harm;
+Of the rest, no; because they are 
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 20
+DATA:
+e I was sitting with the ancient Rachel.
+
+"Beatr
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 22
+DATA:
+ing for thee in the court of Heaven,
+And so much
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 23
+DATA:
+so with desire disposed
+To the adventure, with t
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 24
+DATA:
+he primal Love.
+
+Before me there were no created
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 25
+DATA:
+after he had laid his hand on mine
+With joyful m
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 26
+DATA:
+ had my head with horror bound,
+Said:"Master, wh
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 27
+DATA:
+them."
+
+And I: "O Master, what so grievous is
+To
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 28
+DATA:
+ me indignant;
+
+And after it there came so long 
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 29
+DATA:
+here.
+
+These did their faces irrigate with blood
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 30
+DATA:
+cheron."
+
+Then with mine eyes ashamed and downwa
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 31
+DATA:
+ did not withdraw,
+
+He said:"By other ways, by o
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 0
+DATA:
+ together,
+As soon as they had heard those cruel
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 1
+DATA:
+nother, till the branch
+Unto the earth surrender
+
+ACKNOLEDGE: sequence 18
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 18
+DATA:
+thin the heaven that has the lesser circles,
+
+So
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 19
+DATA:
+ others harm;
+Of the rest, no; because they are 
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 21
+DATA:
+ignified discourse,
+Which honours thee, and thos
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 22
+DATA:
+ing for thee in the court of Heaven,
+And so much
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 23
+DATA:
+so with desire disposed
+To the adventure, with t
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 24
+DATA:
+he primal Love.
+
+Before me there were no created
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 26
+DATA:
+ had my head with horror bound,
+Said:"Master, wh
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 28
+DATA:
+ me indignant;
+
+And after it there came so long 
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 29
+DATA:
+here.
+
+These did their faces irrigate with blood
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 30
+DATA:
+cheron."
+
+Then with mine eyes ashamed and downwa
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 31
+DATA:
+ did not withdraw,
+
+He said:"By other ways, by o
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 0
+DATA:
+ together,
+As soon as they had heard those cruel
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 2
+DATA:
+s them on,
+So ãhat their fear is turned into des
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 3
+DATA:
+eep lethargy within my head
+A heavy thunder, so 
+
+ACKNOLEDGE: sequence 20
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 21
+DATA:
+ignified discourse,
+Which honours thee, and thos
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 22
+DATA:
+ing for thee in the court of Heaven,
+And so much
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 23
+DATA:
+so with desire disposed
+To the adventure, with t
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 26
+DATA:
+ had my head with horror bound,
+Said:"Master, wh
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 27
+DATA:
+them."
+
+And I: "O Master, what so grievous is
+To
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 28
+DATA:
+ me indignant;
+
+And after it there came so long 
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 30
+DATA:
+cheron."
+
+Then with mine eyes ashamed and downwa
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 1
+DATA:
+nother, till the branch
+Unto the earth surrender
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 2
+DATA:
+s them on,
+So that their fear is turned into des
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 3
+DATA:
+eep lethargy within my head
+A heavy thunder, so 
+
+ACKNOLEDGE: sequence 20
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 21
+DATA:
+ignified discourse,
+Which honours thee, and thos
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 23
+DATA:
+so with desire disposed
+To the adventure, with t
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 25
+DATA:
+after he had laid his hand on mine
+With joyful m
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 27
+DATA:
+them."
+
+And I: "O Master, what so grievous is
+To
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 28
+DATA:
+ me indignant;
+
+And after it there came so long 
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 31
+DATA:
+ did not withdraw,
+
+He said:"By other ways, by o
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 3
+DATA:
+eep lethargy within my head
+A heavy thunder, so 
+
+ACKNOLEDGE: sequence 20
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 24
+DATA:
+he primal Love.
+
+Before me there were no created
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 25
+DATA:
+after he had laid his hand on mine
+With joyful m
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 27
+DATA:
+them."
+
+And I: "O Master, what so grievous is
+To
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 28
+DATA:
+ me indignant;
+
+And after it there came so long 
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 29
+DATA:
+here.
+
+These did their faces irrigate with blood
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 30
+DATA:
+cheron."
+
+Then with mine eyes ashamed and downwa
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 1
+DATA:
+nother, till the branch
+Unto the earth surrender
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 2
+DATA:
+s them on,
+So that their fear is turned into des
+
+ACKNOLEDGE: sequence 20
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 20
+DATA:
+e I was sitting with the ancient Rachel.
+
+"Beatr
+
+DAMAGED DATA: sequence 20
+
+SENDING: sequence 20
+DATA:
+e I was sitting with the ancient Rachel.
+
+"Beatr
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 21
+DATA:
+ignified discourse,
+Which honours thee, and thos
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 22
+DATA:
+ing for thee in the court of Heaven,
+And so much
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 23
+DATA:
+so with desire disposed
+To the adventure, with t
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 24
+DATA:
+he primal Love.
+
+Before me there were no created
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 25
+DATA:
+after he had laid his hand on mine
+With joyful m
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 26
+DATA:
+ had my head with horror bound,
+Said:"Master, wh
+
+DAMAGED DATA: sequence 26
+
+SENDING: sequence 26
+DATA:
+ had my head with horror bound,
+Said:"Master, wh
+
+DAMAGED DATA: sequence 26
+
+SENDING: sequence 26
+DATA:
+ had my head with horror bound,
+Said:"Master, wh
+
+ACKNOLEDGE: sequence 27
+
+SENDING: sequence 27
+DATA:
+them."
+
+And I: "O Master, what so grievous is
+To
+
+DAMAGED DATA: sequence 27
+
+SENDING: sequence 27
+DATA:
+them."
+
+And I: "O Master, what so grievous is
+To
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 28
+DATA:
+ me indignant;
+
+And after it there came so long 
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 29
+DATA:
+here.
+
+These did their faces irrigate with blood
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 30
+DATA:
+cheron."
+
+Then with mine eyes ashamed and downwa
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 0
+DATA:
+ together,
+As soon as they had heard those cruel
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 1
+DATA:
+nother, till the branch
+Unto the earth surrender
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 2
+DATA:
+s them on,
+So that their fear is turned into des
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 4
+DATA:
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 5
+DATA:
+ere lamentations none, but only sighs,
+That trem
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 6
+DATA:
+e Christianity,
+In the right manner they adored 
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 7
+DATA:
+merit hence,
+Or by another s, who was blessed th
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 8
+DATA:
+u must know, that earlier than these
+Never were 
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 9
+DATA:
+y these be, which such great honour have,
+That f
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 10
+DATA:
+Master:
+"Him with that falchion in his hand beho
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 11
+DATA:
+t,
+They turned to me with signs of salutation,
+A
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 13
+DATA:
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 31
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 31
+DATA:
+ did not withdraw,
+
+He said:"By other ways, by o
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 0
+DATA:
+ together,
+As soon as they had heard those cruel
+
+DAMAGED DATA: sequence 0
+
+SENDING: sequence 0
+DATA:
+ together,
+As soon as they had heard those cruel
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 1
+DATA:
+nother, till the branch
+Unto the earth surrender
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 3
+DATA:
+eep lethargy within my head
+A heavy thunder, so 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 4
+DATA:
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 5
+DATA:
+ere lamentations none, but only sighs,
+That trem
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 7
+DATA:
+merit hence,
+Or by another s, who was blessed th
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 8
+DATA:
+u must know, that earlier than these
+Never were 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 9
+DATA:
+y these be, which such great honour have,
+That f
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 13
+DATA:
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 15
+DATA:
+y in two divides;
+Another way my sapient Guide c
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 16
+DATA:
+;
+And this discriminator of transgressions
+
+Seet
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 2
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 3
+DATA:
+eep lethargy within my head
+A heavy thunder, so 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 4
+DATA:
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 5
+DATA:
+ere lamentations none, but only sighs,
+That trem
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 6
+DATA:
+e Christianity,
+In the right manner they adored 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 7
+DATA:
+merit hence,
+Or by another s, who was blessed th
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 8
+DATA:
+u must know, that earlier than these
+Never were 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 9
+DATA:
+y these be, which such great honour have,
+That f
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 11
+DATA:
+t,
+They turned to me with signs of salutation,
+A
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 13
+DATA:
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 15
+DATA:
+y in two divides;
+Another way my sapient Guide c
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 16
+DATA:
+;
+And this discriminator of transgressions
+
+Seet
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 2
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 4
+DATA:
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 6
+DATA:
+e Christianity,
+In the right manner they adored 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 8
+DATA:
+u must know, that earlier than these
+Never were 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 9
+DATA:
+y these be, which such great honour have,
+That f
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 11
+DATA:
+t,
+They turned to me with signs of salutation,
+A
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 15
+DATA:
+y in two divides;
+Another way my sapient Guide c
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 2
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 2
+DATA:
+s them on,
+So that their fear is turned into des
+
+DAMAGED DATA: sequence 2
+
+SENDING: sequence 3
+DATA:
+eep lethargy within my head
+A heavy thunder, so 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 4
+DATA:
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 5
+DATA:
+ere lamentations none, but only sighs,
+That trem
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 7
+DATA:
+merit hence,
+Or ùy another s, who was blessed th
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 8
+DATA:
+u must know, that earlier than these
+Never were 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 9
+DATA:
+y these be, which such great honour have,
+That f
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 10
+DATA:
+Master:
+"Him with that falchion in his hand beho
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 13
+DATA:
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 16
+DATA:
+;
+And this discriminator of transgressions
+
+Seet
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 2
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 3
+DATA:
+eep lethargy within my head
+A heavy thunder, so 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 4
+DATA:
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 5
+DATA:
+ere lamentations none, but only sighs,
+That trem
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 6
+DATA:
+e Christianity,
+In the right manner they adored 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 7
+DATA:
+merit hence,
+Or by another s, who was blessed th
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 8
+DATA:
+u must know, that earlier than these
+Never were 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 9
+DATA:
+y these be, which such great honour have,
+That f
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 11
+DATA:
+t,
+They turned to me with signs of salutation,
+A
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 13
+DATA:
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 2
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 2
+DATA:
+s them on,
+So that their fear is turned into des
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 3
+DATA:
+eep lethargy within my head
+A heavy thunder, so 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 4
+DATA:
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+DAMAGED DATA: sequence 4
+
+SENDING: sequence 5
+DATA:
+ere lamentations none, but only sighs,
+That trem
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 6
+DATA:
+e Christianity,
+In the right manner they adored 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 7
+DATA:
+merit hence,
+Or by another s, who was blessed th
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 8
+DATA:
+u must know, that earlier than these
+Never were 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 9
+DATA:
+y these be, which such great honour have,
+That f
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 10
+DATA:
+Master:
+"Him with that falchion in his hand beho
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 11
+DATA:
+t,
+They turned to me with signs of salutation,
+A
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 15
+DATA:
+y in two divides;
+Another way my sapient Guide c
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 16
+DATA:
+;
+And this discriminator of transgressions
+
+Seet
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 19
+DATA:
+m;
+No hope doth comfort them for evermore,
+Not o
+
+ACKNOLEDGE: sequence 4
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 4
+DATA:
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 5
+DATA:
+ere lamentations none, but only sighs,
+That trem
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 6
+DATA:
+e Chrñstianity,
+In the right manner they adored 
+
+DAMAGED DATA: sequence 6
+
+SENDING: sequence 6
+DATA:
+e Christianity,
+In the right manner they adored 
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 7
+DATA:
+merit hence,
+Or by another s, who was blessed th
+
+ACKNOLEDGE: sequence 8
+
+SENDING: sequence 8
+DATA:
+u must know, that earlier than these
+Never were 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 11
+DATA:
+t,
+They turned to me with signs of salutation,
+A
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 13
+DATA:
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 15
+DATA:
+y in two divides;
+Another way my sapient Guide c
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 18
+DATA:
+spirits onwûrd in its rapine;
+Whirling them roun
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 20
+DATA:
+ned,
+That lustful she made licit in her law,
+To 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 21
+DATA:
+thousand
+Shades did he name and point out with h
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 22
+DATA:
+r direction sways them,
+My voice uplift I: "O ye
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 23
+DATA:
+ng of the Universe our friend,
+We would pray unt
+
+ACKNOLEDGE: sequence 9
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 9
+DATA:
+y these be, which such great honour have,
+That f
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 11
+DATA:
+t,
+They turned to me with signs of salutation,
+A
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 13
+DATA:
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 15
+DATA:
+y in two divides;
+Another way my sapient Guide c
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 16
+DATA:
+;
+And this discriminator of transgressions
+
+Seet
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 18
+DATA:
+spirits onward in its rapine;
+Whirling them roun
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 19
+DATA:
+m;
+No hope doth comfort them for evermore,
+Not o
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 20
+DATA:
+ned,
+That lustful she made licit in her law,
+To 
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 21
+DATA:
+thousand
+Shades did he name and point out with h
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 22
+DATA:
+r direction sways them,
+My voice uplift I: "O ye
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 23
+DATA:
+ng of the Universe our friend,
+We would pray unt
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 24
+DATA:
+.
+
+Love, that exemptå no one beloved from loving
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 25
+DATA:
+nto the dolorous pass!"
+
+Then unto them I turned
+
+ACKNOLEDGE: sequence 10
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 10
+DATA:
+Master:
+"Him with that falchion in his hand beho
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 11
+DATA:
+t,
+They turned to me with signs of salutation,
+A
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 12
+DATA:
+ough portals seven I entered with these
+We came 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 13
+DATA:
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 14
+DATA:
+ before the others stand;
+
+Democritus, who puts 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 15
+DATA:
+y in two divides;
+Another way my sapient Guide c
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 16
+DATA:
+;
+And this discriminator of transgressions
+
+Seet
+
+DAMAGED DATA: sequence 16
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 18
+DATA:
+spirits onward in its rapine;
+Whirling them roun
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 19
+DATA:
+m;
+No hope doth comfort them for evermore,
+Not o
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 20
+DATA:
+ned,
+That lustful she made licit in her law,
+To 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 21
+DATA:
+thousand
+Shades did he name and point out with h
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 22
+DATA:
+r direction sways them,
+My voice uplift I: "O ye
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 23
+DATA:
+ng of the Universe our friend,
+We would pray unt
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 25
+DATA:
+nto the dolorous pass!"
+
+Then unto them I turned
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 27
+DATA:
+ did we read therein."
+
+And all the while one sp
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 28
+DATA:
+ and heavy;
+Its law and quality are never new.
+
+
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 29
+DATA:
+ake a shelter for the other;
+Oft turn themselves
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 30
+DATA:
+ filth-begrimed
+Of Cerberus the demon, who so th
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 31
+DATA:
+hich thou hast
+Perhaps doth draw thee out of my 
+
+ACKNOLEDGE: sequence 16
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 18
+DATA:
+spirits onward in its rapine;
+Whirling them roun
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 19
+DATA:
+m;
+No hope doth comfort them for evermore,
+Not o
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 20
+DATA:
+ned,
+That lustful she made licit in her law,
+To 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 21
+DATA:
+thousand
+Shades did he name and point out with h
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 22
+DATA:
+r direction sways them,
+My voice uplift I: "O ye
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 23
+DATA:
+ng of the Universe our friend,
+We would pray unt
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 24
+DATA:
+.
+
+Love, that exempts no one beloved from loving
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 25
+DATA:
+nto the dolorous pass!"
+
+Then unto them I turned
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 27
+DATA:
+ did we read therein."
+
+And all the while one sp
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 28
+DATA:
+ and heavy;
+Its law and quality are never new.
+
+
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 30
+DATA:
+ filth-begrimed
+Of Cerberus the demon, who so th
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 31
+DATA:
+hich thou hast
+Perhaps doth draw thee out of my 
+
+ACKNOLEDGE: sequence 16
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 16
+DATA:
+;
+And this discriminator of transgressions
+
+Seet
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+DAMAGED DATA: sequence 17
+
+SENDING: sequence 17
+DATA:
+al's amplitude deceive thee."
+And unto him my Gu
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 18
+DATA:
+spirits onward in its rapine;
+Whirling them roun
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 19
+DATA:
+m;
+No hope doth comfort them for evermorö,
+Not o
+
+DAMAGED DATA: sequence 19
+
+SENDING: sequence 19
+DATA:
+m;
+No hope doth comfort them for evermore,
+Not o
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 20
+DATA:
+ned,
+That lustful she made licit in her law,
+To 
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 23
+DATA:
+ng of the Universe our friend,
+We would pray unt
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 24
+DATA:
+.
+
+Love, that exempts no one beloved from loving
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 25
+DATA:
+nto the dolorous pass!"
+
+Then unto them I turned
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 26
+DATA:
+o weeps and speaks.
+
+One day we reading were for
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 27
+DATA:
+ did we read therein."
+
+And all the while one sp
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 28
+DATA:
+ and heavy;
+Its law and quality are never new.
+
+
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 29
+DATA:
+ake a shelter for the other;
+Oft turn themselves
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 1
+DATA:
+it this one fall
+Within three suns, and rise aga
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 2
+DATA:
+gghiaio, once so worthy,
+Jacopo Rusticucci, Arri
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 3
+DATA:
+o more I answer."
+
+Then his straightforward eyes
+
+ACKNOLEDGE: sequence 21
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 21
+DATA:
+thousand
+Shades did he name and point out with h
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 22
+DATA:
+r direction sways them,
+My voice uplift I: "O ye
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 23
+DATA:
+ng of the Universe our friend,
+We would pray unt
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 24
+DATA:
+.
+
+Love, that exempts no one beloved from loving
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 25
+DATA:
+nto the dolorous pass!"
+
+Then unto them I turned
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 26
+DATA:
+o weeps and speaks.
+
+One day we reading were for
+
+DAMAGED DATA: sequence 26
+
+SENDING: sequence 26
+DATA:
+o weeps and speaks.
+
+One day we reading were for
+
+DAMAGED DATA: sequence 26
+
+SENDING: sequence 26
+DATA:
+o weeps and speaks.
+
+One day we reading were for
+
+DAMAGED DATA: sequence 26
+
+SENDING: sequence 26
+DATA:
+o weeps and speaks.
+
+One day we reading were for
+
+ACKNOLEDGE: sequence 27
+
+SENDING: sequence 27
+DATA:
+ did we read therein."
+
+And all the while one sp
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 29
+DATA:
+ake a shelter for the other;
+Oft turn themselves
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 30
+DATA:
+ filth-begrimed
+Of Cerberus the demon, who so th
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 31
+DATA:
+hich thou hast
+Perhaps doth draw thee out of my 
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 1
+DATA:
+it this one fall
+Within three suns, and rise aga
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 3
+DATA:
+o more I answer."
+
+Then his straightforward eyes
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 5
+DATA:
+;
+We came unto the point where the descent is;
+
+
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 6
+DATA:
+rney to the abyss;
+Thus is it willed on high, wh
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 7
+DATA:
+re upon Charybdis,
+That breaks itself on that wh
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 8
+DATA:
+e evermore.
+
+Then each, when he arrived there, w
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 9
+DATA:
+nders them the opposite defect.
+
+Clerks those we
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 10
+DATA:
+ the fist closed, and these with tresses shorn.
+
+
+ACKNOLEDGE: sequence 28
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 28
+DATA:
+ and heavy;
+Its law and quality are never new.
+
+
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 29
+DATA:
+ake a shelter for the other;
+Oft turn themselves
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 31
+DATA:
+hich thou hast
+Perhaps doth draw thee out of my 
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 0
+DATA:
+ly one,
+For all these suffer the like penalty
+Fo
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 1
+DATA:
+it this one fall
+Within three suns, and rise aga
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 2
+DATA:
+gghiaio, once so worthy,
+Jacopo Rusticucci, Arri
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 5
+DATA:
+;
+We came unto the point where the descent is;
+
+
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 6
+DATA:
+rney to the abyss;
+Thus is it willed on high, wh
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 7
+DATA:
+re upon Charybdis,
+That breaks itself on that wh
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 10
+DATA:
+ the fist closed, and these with tresses shorn.
+
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 11
+DATA:
+une which thou speakest of,
+That has the world's
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 12
+DATA:
+the empty treasures
+From race to race, from one 
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 13
+DATA:
+cified
+Even by those who ought to give her prais
+
+ACKNOLEDGE: sequence 30
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 30
+DATA:
+ filth-begrimed
+Of Cerberus the demon, who so th
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 31
+DATA:
+hich thou hast
+Perhaps doth draw thee out of my 
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 0
+DATA:
+ly one,
+For all these suffer the like penalty
+Fo
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 2
+DATA:
+gghiaio, once so worthy,
+Jacopo Rusticucci, Arri
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 3
+DATA:
+o more I answer."
+
+Then his straightforward eyes
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 4
+DATA:
+low,
+Touching a little on the future life.
+
+Wher
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 5
+DATA:
+;
+We came unto the point where the descent is;
+
+
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 7
+DATA:
+re upon Charybdis,
+That breaks itself on that wh
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 9
+DATA:
+nders them the opposite defect.
+
+Clerks those we
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 10
+DATA:
+ the fist closed, and these with tresses shorn.
+
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 11
+DATA:
+une which thou speakest of,
+That has the world's
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 12
+DATA:
+the empty treasures
+From race to race, from one 
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 13
+DATA:
+cified
+Even by those who ought to give her prais
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 14
+DATA:
+han perse;
+And we, in company with the dusky wav
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 15
+DATA:
+aster:"Son, thou now beholdest
+The souls of thos
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 16
+DATA:
+t say it."
+
+Thus we went circling round the filt
+
+ACKNOLEDGE: sequence 1
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 1
+DATA:
+it this one fall
+Within three suns, and rise aga
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 2
+DATA:
+gghiaio, once so worthy,
+Jacopo Rusticucci, Arri
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 3
+DATA:
+o more I answer."
+
+Then his straightforward eyes
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 4
+DATA:
+low,
+Touching a little on the future life.
+
+Wher
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 5
+DATA:
+;
+We came unto the point where the descent is;
+
+
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 7
+DATA:
+re upon Charybdis,
+That breaks itself on that wh
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 8
+DATA:
+e evermore.
+
+Then each, when he arrived there, w
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 9
+DATA:
+nders them the opposite defect.
+
+Clerks those we
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 10
+DATA:
+ the fist closed, and these with tresses shorn.
+
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 11
+DATA:
+une which thou speakest of,
+That has the world's
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 12
+DATA:
+the empty treasures
+From race to race, from one 
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 13
+DATA:
+cified
+Even by those who ought to give her prais
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 15
+DATA:
+aster:"Son, thou now beholdest
+The souls of thos
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 16
+DATA:
+t say it."
+
+Thus we went circling round the filt
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 17
+DATA:
+: " What sayeth this, and what respondeth
+That o
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 18
+DATA:
+is once," said my Lord; " thou shalt not have
+Lo
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 20
+DATA:
+s!"
+
+Thereafter with his arms he clasped my neck
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 21
+DATA:
+t of the lake."
+
+And he to me:"Ere unto thee the
+
+ACKNOLEDGE: sequence 6
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 6
+DATA:
+rney to the abyss;
+Thus is it willed on high, wh
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 7
+DATA:
+re upên Charybdis,
+That breaks itself on that wh
+
+DAMAGED DATA: sequence 7
+
+SENDING: sequence 7
+DATA:
+re upon Charybdis,
+That breaks itself on that wh
+
+ACKNOLEDGE: sequence 8
+
+SENDING: sequence 8
+DATA:
+e evermore.
+
+Then each, when he arrived there, w
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 9
+DATA:
+nders them the opposite defect.
+
+Clerks those we
+
+DAMAGED DATA: sequence 9
+
+SENDING: sequence 9
+DATA:
+nders them the opposite defect.
+
+Clerks those we
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 10
+DATA:
+ the fist closed, and these with tresses shorn.
+
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 11
+DATA:
+une which thou speakest of,
+That has the world's
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 12
+DATA:
+the empty treasures
+From race to race, from one 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 13
+DATA:
+cified
+Even by those who ought to give her prais
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 14
+DATA:
+han perse;
+And we, in company with the dusky wav
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 16
+DATA:
+t say it."
+
+Thus we went circling round the filt
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 17
+DATA:
+: " What sayeth this, and what respondeth
+That o
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 18
+DATA:
+is once," said my Lord; " thou shalt not have
+Lo
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 19
+DATA:
+ dead canal,
+Uprose in front of me one full of m
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 20
+DATA:
+s!"
+
+Thereafter with his arms he clasped my neck
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 21
+DATA:
+t of the lake."
+
+And he to me:"Ere unto thee the
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 22
+DATA:
+ent unbar mine eyes.
+
+And the good Master said:"
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 23
+DATA:
+eared to me to be of iron.
+
+Not without making f
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 24
+DATA:
+Who has so boldly entered these dominions.
+
+Let 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 25
+DATA:
+e our steps together swiftly."
+
+And that Lord, w
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 26
+DATA:
+ch within in rivalry ran back.
+
+They closed the 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 27
+DATA:
+ret gate,
+Which finds itself without a fastening
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 28
+DATA:
+vy fog.
+
+"Still it behoveth us to win the fight,
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 29
+DATA:
+pain has only hope cut off?"
+
+This question put 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 30
+DATA:
+I the way; therefore be reassured.
+
+This fen, wh
+
+ACKNOLEDGE: sequence 15
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 16
+DATA:
+t say it."
+
+Thus we went circling round the filt
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 18
+DATA:
+is once," said my Lord; " thou shalt not have
+Lo
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 20
+DATA:
+s!"
+
+Thereafter with his arms he clasped my neck
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 21
+DATA:
+t of the lake."
+
+And he to me:"Ere unto thee the
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 22
+DATA:
+ent unbar mine eyes.
+
+And the good Master said:"
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 23
+DATA:
+eared to me to be of iron.
+
+Not without making f
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 24
+DATA:
+Who has so boldly entered these dominions.
+
+Let 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 25
+DATA:
+e our steps together swiftly."
+
+And that Lord, w
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 26
+DATA:
+ch within in rivalry ran back.
+
+They closed the 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 28
+DATA:
+vy fog.
+
+"Still it behoveth us to win the fight,
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 29
+DATA:
+pain has only hope cut off?"
+
+This question put 
+
+ACKNOLEDGE: sequence 15
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 15
+DATA:
+aster:"Son, thou now beholdest
+The souls of thos
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 16
+DATA:
+t say it."
+
+Thus we went circling round the filt
+
+DAMAGED DATA: sequence 16
+
+SENDING: sequence 17
+DATA:
+: " What sayeth this, and what respondeth
+That o
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 18
+DATA:
+is once," said my Lord; " thou shalt not have
+Lo
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 19
+DATA:
+ dead canal,
+Uprose in front of me one full of m
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 20
+DATA:
+s!"
+
+Thereafter with his arms he clasped my neck
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 21
+DATA:
+t of the lake."
+
+And he to me:"Ere unto thee the
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 22
+DATA:
+ent unbar mine eyes.
+
+And the good Master said:"
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 23
+DATA:
+eared to me to be of iron.
+
+Not without making f
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 24
+DATA:
+Who has so boldly entered these dominions.
+
+Let 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 25
+DATA:
+e our steps together swiftly."
+
+And that Lord, w
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 26
+DATA:
+ch within in rivalry ran back.
+
+They closed the 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 27
+DATA:
+ret gate,
+Which finds itself without a fastening
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 28
+DATA:
+vy fog.
+
+"Still it behoveth us to win the fight,
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 30
+DATA:
+I the way; therefore be reassured.
+
+This fen, wh
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 31
+DATA:
+r tresses,
+Wherewith their horrid temples were e
+
+ACKNOLEDGE: sequence 16
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 16
+DATA:
+t say it."
+
+Thus we went circling round the filt
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 17
+DATA:
+: " What sayeth this, and what respondeth
+That o
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 18
+DATA:
+is once," said my Lord; " thou shalt not have
+Lo
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 19
+DATA:
+ dead canal,
+Uprose in front of me one full of m
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 20
+DATA:
+s!"
+
+Thereafter with his arms he clasped my neck
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 22
+DATA:
+ent unbar mine eyes.
+
+And the good Master said:"
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 23
+DATA:
+eared to me to be of iron.
+
+Not without making f
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 24
+DATA:
+Who has so boldly entered these dominions.
+
+Let 
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 25
+DATA:
+e our steps together swiftly."
+
+And that Lord, w
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 27
+DATA:
+ret gate,
+Which finds itself without a fastening
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 28
+DATA:
+ây fog.
+
+"Still it behoveth us to win the fight,
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 29
+DATA:
+pain has only hope cut off?"
+
+This question put 
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 31
+DATA:
+r tresses,
+Wherewith their horrid temples were e
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 1
+DATA:
+bid waves
+The clangour of a sound with terror fr
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 2
+DATA:
+nse."
+
+Even as the frogs before the hostile serp
+
+ACKNOLEDGE: sequence 21
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 21
+DATA:
+t of the lake."
+
+And he to me:"Ere unto thee the
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 22
+DATA:
+ent unbar mine eyes.
+
+And the good Master said:"
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 23
+DATA:
+eared to me to be of iron.
+
+Not without making f
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 24
+DATA:
+Who has so boldly entered these dominions.
+
+Let 
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 27
+DATA:
+ret gate,
+Which finds itself without a fastening
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 29
+DATA:
+pain has only hope cut off?"
+
+This question put 
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 30
+DATA:
+I the way; therefore be reassured.
+
+This fen, wh
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 31
+DATA:
+r tresses,
+Wherewith their horrid temples were e
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 1
+DATA:
+bid waves
+The clangour of a sound with terror fr
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 2
+DATA:
+nse."
+
+Even as the frogs before the hostile serp
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 3
+DATA:
+and bow before him.
+
+Ah I how disdainful he appe
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 5
+DATA:
+ment terrible.
+
+Even as at Arles, where stagnant
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 6
+DATA:
+ey ofﬂthe wretched and tormented.
+
+And I:"My Mas
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 7
+DATA:
+a narrow path
+Between the torments and the city 
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 8
+DATA:
+de
+With Epicurus all his followers,
+Who with the
+
+ACKNOLEDGE: sequence 25
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 27
+DATA:
+ret gate,
+Which finds itself without a fastening
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 28
+DATA:
+vy fog.
+
+"Still it behoveth us to win the fight,
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 30
+DATA:
+I the way; therefore be reassured.
+
+This fen, wh
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 31
+DATA:
+r tresses,
+Wherewith their horrid temples were e
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 0
+DATA:
+uted looking down; "in evil hour
+Avenged we not 
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 2
+DATA:
+nse."
+
+Even as the frogs before the hostile serp
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 3
+DATA:
+and bow before him.
+
+Ah I how disdainful he appe
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 4
+DATA:
+ bears his chin and gullet peeled."
+
+Then he ret
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 5
+DATA:
+ment terrible.
+
+Even as at Arles, where stagnant
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 6
+DATA:
+ey of the wretched and tormented.
+
+And I:"My Mas
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 7
+DATA:
+a narrow path
+Between the torments and the city 
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 8
+DATA:
+de
+With Epicurus all his followers,
+Who with the
+
+ACKNOLEDGE: sequence 25
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 25
+DATA:
+e our steps together swiftly."
+
+And that Lord, w
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 26
+DATA:
+ch within in rivalry ran back.
+
+They closed the 
+
+DAMAGED DATA: sequence 26
+
+SENDING: sequence 26
+DATA:
+ch within in rivalry ran back.
+
+They closed the 
+
+ACKNOLEDGE: sequence 27
+
+SENDING: sequence 27
+DATA:
+ret gate,
+Which finds itself without a fastening
+
+DAMAGED DATA: sequence 27
+
+SENDING: sequence 27
+DATA:
+ret gate,
+Which finds itself without a fastening
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 28
+DATA:
+vy fog.
+
+"Still it behoveth us to win the fight,
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 29
+DATA:
+pain has only hope cut off?"
+
+This question put 
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 31
+DATA:
+r tresses,
+Wherewith their horrid temples were e
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 0
+DATA:
+uted looking down; "in evil hour
+Avenged we not 
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 2
+DATA:
+nse."
+
+Even as the frogs before the hostile serp
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 4
+DATA:
+ bears his chin and gullet peeled."
+
+Then he ret
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 6
+DATA:
+ey of the wretched and tormented.
+
+And I:"My Mas
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 7
+DATA:
+a narrow path
+Between the torments and the city 
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 9
+DATA:
+nifest
+A native of that noble fatherland,
+To whi
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 10
+DATA:
+ Leader
+Thrust me between the sepulchres towards
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 11
+DATA:
+they returned on all sides,"
+I answered him, " t
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 12
+DATA:
+
+
+And I to him:"I come not of myself;
+He who is 
+
+ACKNOLEDGE: sequence 30
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 30
+DATA:
+I the way; therefore be reassured.
+
+This fen, wh
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 31
+DATA:
+r tresses,
+Wherewith their horrid temples were e
+
+DAMAGED DATA: sequence 31
+
+SENDING: sequence 31
+DATA:
+r tresses,
+Wherewith their horrid temples were e
+
+DAMAGED DATA: sequence 31
+
+SENDING: sequence 1
+DATA:
+bid waves
+The clangour of a sound with terror fr
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 2
+DATA:
+nse."
+
+Even as the frogs before the hostile serp
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 4
+DATA:
+ bears his chin and gullet peeled."
+
+Then he ret
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 6
+DATA:
+ey of the wretched and tormented.
+
+And I:"My Mas
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 7
+DATA:
+a narrow path
+Between the torments and the city 
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 8
+DATA:
+de
+With Epicurus all his followers,
+Who with the
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 9
+DATA:
+nifest
+A native of that noble fatherland,
+To whi
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 11
+DATA:
+they returned on all sides,"
+I answered him, " t
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 12
+DATA:
+
+
+And I to him:"I come not of myself;
+He who is 
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 13
+DATA:
+gnanimous, at whose desire
+I had remained, did n
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 14
+DATA:
+
+Whence I to him:"The slaughter and great carnag
+
+ACKNOLEDGE: sequence 31
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 31
+DATA:
+r tresses,
+Wherewith their horrid temples were e
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 1
+DATA:
+bid waves
+The clangour of a sound with terror fr
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 2
+DATA:
+nse."
+
+Even as the frogs before the hostile serp
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 5
+DATA:
+ment terrible.
+
+Even as at Arles, where stagnant
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 6
+DATA:
+ey of the wretched and tormented.
+
+And I:"My Mas
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 7
+DATA:
+a narrow path
+Between the torments and the city 
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 9
+DATA:
+nifest
+A native of that noble fatherland,
+To whi
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 10
+DATA:
+ Leader
+Thrust me between the sepulchres towards
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 11
+DATA:
+they returned on all sides,"
+I answered him, " t
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 12
+DATA:
+
+
+And I to him:"I come not of myself;
+He who isﬂ
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 13
+DATA:
+gnanimous, at whose desire
+I had remained, did n
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 14
+DATA:
+
+Whence I to him:"The slaughter and great carnag
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 15
+DATA:
+ons here.
+
+It seems that you can see, if I hear 
+
+ACKNOLEDGE: sequence 0
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 0
+DATA:
+uted looking down; "in evil hour
+Avenged we not 
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 1
+DATA:
+bid waves
+The clangour of a sound with terror fr
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 2
+DATA:
+nse."
+
+Even as the frogs before the hostile serp
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 3
+DATA:
+and bow before him.
+
+Ah I how disdainful he appe
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 5
+DATA:
+ment terrible.
+
+Even as at Arles, where stagnant
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 7
+DATA:
+a narrow path
+Between the torments and the city 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 8
+DATA:
+de
+With Epicurus all his followers,
+Who with the
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 9
+DATA:
+nifest
+A native of that noble fatherland,
+To whi
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 10
+DATA:
+ Leader
+Thrust me between the sepulchres towards
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 11
+DATA:
+they returned on all sides,"
+I answered him, " t
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 12
+DATA:
+
+
+And I to him:"I come not of myself;
+He who is 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 13
+DATA:
+gnanimous, at whose desire
+I had remained, did n
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 15
+DATA:
+ons here.
+
+It seems that you can see, if I hear 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 17
+DATA:
+ Frederick,
+And the Cardinal, and of the rest I 
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 18
+DATA:
+eft the wall, and went towards the middle,
+Along
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 19
+DATA:
+sense be first a little used
+To the sad blast, a
+
+ACKNOLEDGE: sequence 4
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 4
+DATA:
+ bears his chin and gullet peeled."
+
+Then he ret
+
+DAMAGED DATA: sequence 4
+
+SENDING: sequence 4
+DATA:
+ bears his chin and gullet peeled."
+
+Then he ret
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 5
+DATA:
+ment terrible.
+
+Even as at Arles, where stagnant
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 6
+DATA:
+ey of the wretched and tormented.
+
+And I:"My Mas
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 7
+DATA:
+a narrow path
+Between the torments and the city 
+
+ACKNOLEDGE: sequence 8
+
+SENDING: sequence 8
+DATA:
+de
+With Epicurus all his followers,
+Who with the
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 9
+DATA:
+nifest
+A native of that noble fatherland,
+To whi
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 10
+DATA:
+ Leader
+Thrust me between the sepulchres towards
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 11
+DATA:
+they returned on all sides,"
+I answered him, " t
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 12
+DATA:
+
+
+And I to him:"I come not of myself;
+He who is 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 13
+DATA:
+gnanimous, at whose desire
+I had remained, did n
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 14
+DATA:
+
+Whence I to him:"The slaughter and great carnag
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 15
+DATA:
+ons here.
+
+It seems that you can see, if I hear 
+
+DAMAGED DATA: sequence 15
+
+SENDING: sequence 15
+DATA:
+ons here.
+
+It seems that you can see, if I hear 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 16
+DATA:
+he portal of the future shall be closed."
+
+Then 
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 17
+DATA:
+ Frederick,
+And the Cardinal, and of the rest I 
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 18
+DATA:
+eft the wall, and went towards the middle,
+Along
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 19
+DATA:
+sense be first a little used
+To the sad blast, a
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 20
+DATA:
+t wins hate in Heaven,
+Injury is the end; and al
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 21
+DATA:
+ifest.
+
+A death by violence, and painful wounds,
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 22
+DATA:
+ld jocund be.
+
+Violence can be done the Deity,
+I
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 23
+DATA:
+e nestle
+
+Hypocrisy, flattery, and who deals in 
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 25
+DATA:
+God offendeth, and less blame attracts?
+
+If thou
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 26
+DATA:
+yest that usury offends
+Goodness divine, and dis
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 27
+DATA:
+follower
+Disdains he, for elsewhere he puts his 
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 28
+DATA:
+mountain's top, from which it moved,
+Unto the pl
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 29
+DATA:
+Get thee gone, beast, for this one cometh not
+In
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 30
+DATA:
+r which just now I quenched.
+
+Now will I have th
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 31
+DATA:
+lsewhere made such overthrow.
+
+But fix thine eye
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 0
+DATA:
+d they used the chase to follow.
+
+Beholding us d
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 1
+DATA:
+ely Dejanira,
+And for himself, himself did venge
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 2
+DATA:
+aid to his companions:"Are you ware
+That he behi
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 3
+DATA:
+ng
+My steps along this savage thoroughfare,
+Give
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 4
+DATA:
+ up to the eyebrows,
+And the great Centaur said:
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 5
+DATA:
+Centaur stopped
+Above a folk, who far down as th
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 6
+DATA:
+here upon this side beholdest
+The boiling stream
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 7
+DATA:
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+ACKNOLEDGE: sequence 24
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 24
+DATA:
+eople who possess it.
+
+But tell me, those within
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 26
+DATA:
+yest that usury offends
+Goodness divine, and dis
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 27
+DATA:
+follower
+Disdains he, for elsewhere he puts his 
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 28
+DATA:
+mountain's top, from which it moved,
+Unto the pl
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 30
+DATA:
+r which just now I quenched.
+
+Now will I have th
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 31
+DATA:
+lsewhere made such overthrow.
+
+But fix thine eye
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 0
+DATA:
+d they used the chase to follow.
+
+Beholding us d
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 1
+DATA:
+ely Dejanira,
+And for himself, himself did venge
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 2
+DATA:
+aid to his companions:"Are you ware
+That he behi
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 3
+DATA:
+ng
+My steps along this savage thoroughfare,
+Give
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 4
+DATA:
+ up to the eyebrows,
+And the great Centaur said:
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 5
+DATA:
+Centaur stopped
+Above a folk, who far down as th
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 6
+DATA:
+here upon this side beholdest
+The boiling stream
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 7
+DATA:
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 8
+DATA:
+e Trojans from the Strophades,
+With sad announce
+
+ACKNOLEDGE: sequence 25
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 25
+DATA:
+God offendeth, and less blame attracts?
+
+If thou
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 26
+DATA:
+yest that usury offends
+Goodness divine, and dis
+
+ACKNOLEDGE: sequence 27
+
+SENDING: sequence 27
+DATA:
+follower
+Disdains he, for elsewhere he puts his 
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 28
+DATA:
+mountain's top, from which it moved,
+Unto the pl
+
+DAMAGED DATA: sequence 28
+
+SENDING: sequence 28
+DATA:
+mountain's top, from which it moved,
+Unto the pl
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 30
+DATA:
+r which just now I quenched.
+
+Now will I have th
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 31
+DATA:
+lsewhere made such overthrow.
+
+But fix thine eye
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 0
+DATA:
+d they used the chase to follow.
+
+Beholding us d
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 1
+DATA:
+ely Dejanira,
+And for himself, himself did venge
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 2
+DATA:
+aid to his companions:"Are you ware
+That he behi
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 3
+DATA:
+ng
+My steps along this savage thoroughfare,
+Give
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 7
+DATA:
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 8
+DATA:
+e Trojans from the Strophades,
+With sad announce
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 9
+DATA:
+sides lamentations uttered,
+And person none behe
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 10
+DATA:
+ied, " Why dost thou mangle me?"
+
+After it had b
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 11
+DATA:
+let the tip
+Fall, and stood like a man who is af
+
+ACKNOLEDGE: sequence 29
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 29
+DATA:
+Get thee gone, beast, for this one cometh not
+In
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 30
+DATA:
+r which just now I quenched.
+
+Now will I have th
+
+DAMAGED DATA: sequence 30
+
+SENDING: sequence 31
+DATA:
+lsewhere made such overthrow.
+
+But fix thine eye
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 0
+DATA:
+d they used the chase to follow.
+
+Beholding us d
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 1
+DATA:
+ely Dejanira,
+And for himself, himself did venge
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 3
+DATA:
+ng
+My steps along this savage thoroughfare,
+Give
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 5
+DATA:
+Centaur stopped
+Above a folk, who far down as th
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 6
+DATA:
+here upon this side beholdest
+The boiling stream
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 8
+DATA:
+e Trojans from the Strophades,
+With sad announce
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 9
+DATA:
+sides lamentations uttered,
+And person none behe
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 10
+DATA:
+ied, " Why dost thou mangle me?"
+
+After it had b
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 11
+DATA:
+let the tip
+Fall, and stood like a man who is af
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 12
+DATA:
+ou be vexed not,
+That I a little to discourse am
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 13
+DATA:
+so inflame Augustus,
+That my glad honours turned
+
+ACKNOLEDGE: sequence 30
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 30
+DATA:
+r which just now I quenched.
+
+Now will I have th
+
+DAMAGED DATA: sequence 30
+
+SENDING: sequence 30
+DATA:
+r which just now I quenched.
+
+Now will I have th
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 0
+DATA:
+d they used the chase to follow.
+
+Beholding us d
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 2
+DATA:
+aid to his companions:"Are you ware
+That he behi
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 3
+DATA:
+ng
+My steps along this savage thoroughfare,
+Give
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 4
+DATA:
+ up to the eyebrows,
+And the great Centaur said:
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 5
+DATA:
+Centaur stopped
+Above a folk, who far down as th
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 6
+DATA:
+here upon this side beholdest
+The boiling stream
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 7
+DATA:
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 8
+DATA:
+e Trojans from the Strophades,
+With sad announce
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 9
+DATA:
+sides lamentations uttered,
+And person none behe
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 10
+DATA:
+ied, " Why dost thou mangle me?"
+
+After it had b
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 11
+DATA:
+let the tip
+Fall, and stood like a man who is af
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 12
+DATA:
+ou be vexed not,
+That I a little to discourse am
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 14
+DATA:
+to me, " lose not the time,
+But speak, and quest
+
+ACKNOLEDGE: sequence 31
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 31
+DATA:
+lsewhere made such overthrow.
+
+But fix thine eye
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 0
+DATA:
+d they used the chase to follow.
+
+Beholding us d
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 2
+DATA:
+aid to his companions:"Are you ware
+That he behi
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 3
+DATA:
+ng
+My steps along this savage thoroughfare,
+Give
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 4
+DATA:
+ up to the eyebrows,
+And the great Centaur said:
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 7
+DATA:
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 9
+DATA:
+sides lamentations uttered,
+And person none behe
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 10
+DATA:
+ied, " Why dost thou mangle me?"
+
+After it had b
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 12
+DATA:
+ou be vexed not,
+That I a little to discourse am
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 14
+DATA:
+to me, " lose not the time,
+But speak, and quest
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 15
+DATA:
+d
+The wind was into such a voice converted:
+"Wit
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 16
+DATA:
+that any one may them revest,
+For 'tis not just 
+
+ACKNOLEDGE: sequence 1
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 1
+DATA:
+ely Dejanira,
+And for himself, himself did venge
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 2
+DATA:
+aid to his companions:"Are you ware
+That he behi
+
+DAMAGED DATA: sequence 2
+
+SENDING: sequence 2
+DATA:
+aid to his companions:"Are you ware
+That he behi
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 4
+DATA:
+ up to the eyebrows,
+And the great Centaur said:
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 5
+DATA:
+Centaur stopped
+Above a folk, who far down as th
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 6
+DATA:
+here upon this side beholdest
+The boiling stream
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 7
+DATA:
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 8
+DATA:
+e Trojans from the Strophades,
+With sad announce
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 9
+DATA:
+sides lamentations uttered,
+And person none behe
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 10
+DATA:
+ied, " Why dost thou mangle me?"
+
+After it had b
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 11
+DATA:
+let the tip
+Fall, and stood like a man who is af
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 12
+DATA:
+ou be vexed not,
+That I a little to discourse am
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 13
+DATA:
+so inflame Augustus,
+That my glad honours turned
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 14
+DATA:
+to me, " lose not the time,
+But speak, and quest
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 15
+DATA:
+d
+The wind was into such a voice converted:
+"Wit
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 16
+DATA:
+that any one may them revest,
+For 'tis not just 
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 17
+DATA:
+
+Naked and scratched, fleeing so furiously,
+That
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 18
+DATA:
+ad crouched down they set their teeth,
+And him t
+
+ACKNOLEDGE: sequence 3
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 3
+DATA:
+ng
+My steps along this savage thoroughfare,
+Give
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 4
+DATA:
+ up to the eyebrows,
+And the great Centaur said:
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 7
+DATA:
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 8
+DATA:
+e Trojans from the Strophades,
+With sad announce
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 9
+DATA:
+sides lamentations uttered,
+And person none behe
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 10
+DATA:
+ied, " Why dost thou mangle me?"
+
+After it had b
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 11
+DATA:
+let the tip
+Fall, and stood like a man who is af
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 12
+DATA:
+ou be vexed not,
+That I a little to discourse am
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 14
+DATA:
+to me, " lose not the time,
+But speak, and quest
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 15
+DATA:
+d
+The wind was into such a voice converted:
+"Wit
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 16
+DATA:
+that any one may them revest,
+For 'tis not just 
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 17
+DATA:
+
+Naked and scratched, fleeing so furiously,
+That
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 18
+DATA:
+ad crouched down they set their teeth,
+And him t
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 19
+DATA:
+us speech?"
+
+And he to us:"O souls, that hither 
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 20
+DATA:
+own house I made myself a gibbet."
+
+CANTO 14
+
+BE
+
+ACKNOLEDGE: sequence 5
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 5
+DATA:
+Centaur stopped
+Above a folk, who far down as th
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 6
+DATA:
+here upon this side beholdest
+The boiling stream
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 7
+DATA:
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+ACKNOLEDGE: sequence 8
+
+SENDING: sequence 8
+DATA:
+e Trojans from the Strophades,
+With sad announce
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 9
+DATA:
+sides lamentations uttered,
+And person none behe
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 10
+DATA:
+ied, " Why dost thou mangle me?"
+
+After it had b
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 11
+DATA:
+let the tip
+Fall, and stood like a man who is af
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 12
+DATA:
+ou be vexed not,
+That I a little to discourse am
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 14
+DATA:
+to me, " lose not the time,
+But speak, and quest
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 15
+DATA:
+d
+The wind was into such a voice converted:
+"Wit
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 16
+DATA:
+that any one may them revest,
+For 'tis not just 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 17
+DATA:
+
+Naked and scratched, fleeing so furiously,
+That
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 18
+DATA:
+ad crouched down they set their teeth,
+And him t
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 19
+DATA:
+us speech?"
+
+And he to us:"O souls, that hither 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 20
+DATA:
+own house I made myself a gibbet."
+
+CANTO 14
+
+BE
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 21
+DATA:
+hat;
+There close upon the edge we stayed our fee
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 22
+DATA:
+d others went about continually.
+
+Those who were
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 23
+DATA:
+pour
+Better extinguished was while it was single
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 24
+DATA:
+g and disdainful,
+So that the rain seems not to 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 25
+DATA:
+ with all his might,
+He would not have thereby a
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 26
+DATA:
+;
+But, as I said to him, his own despites
+Are fo
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 27
+DATA:
+ping banks,
+Were made of stone, and the margins 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 28
+DATA:
+the mid-sea there sits a wasted land,"
+Said he t
+
+ACKNOLEDGE: sequence 13
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 14
+DATA:
+to me, " lose not the time,
+But speak, and quest
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 15
+DATA:
+d
+The wind was into such a voice converted:
+"Wit
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 16
+DATA:
+that any one may them revest,
+For 'tis not just 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 17
+DATA:
+
+Naked and scratched, fleeing so furiously,
+That
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 18
+DATA:
+ad crouched down they set their teeth,
+And him t
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 19
+DATA:
+us speech?"
+
+And he to us:"O souls, that hither 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 20
+DATA:
+own house I made myself a gibbet."
+
+CANTO 14
+
+BE
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 21
+DATA:
+hat;
+There close upon the edge we stayed our fee
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 22
+DATA:
+d others went about continually.
+
+Those who were
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 23
+DATA:
+pour
+Better extinguished was while it was single
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 24
+DATA:
+g and disdainful,
+So that the rain seems not to 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 25
+DATA:
+ with all his might,
+He would not have thereby a
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 27
+DATA:
+ping banks,
+Were made of stone, and the margins 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 28
+DATA:
+the mid-sea therö sits a wasted land,"
+Said he t
+
+ACKNOLEDGE: sequence 13
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 13
+DATA:
+so inflame Augustus,
+That my glad honours turned
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 14
+DATA:
+to me, " lose not the time,
+But speak, and quest
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 16
+DATA:
+that any one may them revest,
+For 'tis not just 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 17
+DATA:
+
+Naked and scratched, fleeing so furiously,
+That
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 18
+DATA:
+ad crouched down they set their teeth,
+And him t
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 19
+DATA:
+us speech?"
+
+And he to us:"O souls, that hither 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 20
+DATA:
+own house I made myself a gibbet."
+
+CANTO 14
+
+BE
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 21
+DATA:
+hat;
+There close upon the edge we stayed our fee
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 22
+DATA:
+d others went about continually.
+
+Those who were
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 23
+DATA:
+pour
+Better extinguished was while it was single
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 24
+DATA:
+g and disdainful,
+So that the rain seems not to 
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 25
+DATA:
+ with all his might,
+He would not have thereby a
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 26
+DATA:
+;
+But, as I said to him, his own despites
+Are fo
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 29
+DATA:
+s at Rome as if it were his mirror.
+
+His head is
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 30
+DATA:
+egethon they form;
+Then downward go along this n
+
+ACKNOLEDGE: sequence 15
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 15
+DATA:
+d
+The wind was into such a voice converted:
+"Wit
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 17
+DATA:
+
+Naked and scratched, fleeing so furiously,
+That
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 18
+DATA:
+ad crouched down they set their teeth,
+And him t
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 20
+DATA:
+own house I made myself a gibbet."
+
+CANTO 14
+
+BE
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 24
+DATA:
+g and disdainful,
+So that the rain seems not to 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 25
+DATA:
+ with all his might,
+He would not have thereby a
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 26
+DATA:
+;
+But, as I said to him, his own despites
+Are fo
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 27
+DATA:
+ping banks,
+Were made of stone, and the margins 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 28
+DATA:
+the mid-sea there sits a wasted land,"
+Said he t
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 30
+DATA:
+egethon they form;
+Then downward go along this n
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 31
+DATA:
+ed.
+Therefore if something new appear to us,
+It 
+
+ACKNOLEDGE: sequence 16
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 16
+DATA:
+that any one may them revest,
+For 'tis not just 
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 17
+DATA:
+
+Naked and scratched, fleeing so furiously,
+That
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 18
+DATA:
+ad crouched down they set their teeth,
+And him t
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 19
+DATA:
+us speech?"
+
+And he to us:"O souls, that hither 
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 20
+DATA:
+own house I made myself a gibbet."
+
+CANTO 14
+
+BE
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 21
+DATA:
+hat;
+There close upon the edge we stayed our fee
+
+DAMAGED DATA: sequence 21
+
+SENDING: sequence 21
+DATA:
+hat;
+There close upon the edge we stayed our fee
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 24
+DATA:
+g and disdainful,
+So that the rain seems not to 
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 25
+DATA:
+ with all his might,
+He would not have thereby a
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 26
+DATA:
+;
+But, as I said to him, his own despites
+Are fo
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 27
+DATA:
+ping banks,
+Were made of stone, and the margins 
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 28
+DATA:
+the mid-sea there sits a wasted land,"
+Said he t
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 30
+DATA:
+egethon they form;
+Then downward go along this n
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 31
+DATA:
+ed.
+Therefore if something new appear to us,
+It 
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 0
+DATA:
+said he:"It is time now to abandon
+The wood; tak
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 1
+DATA:
+d their villas and their villages,
+Or ever Chiar
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 2
+DATA:
+ows
+As an old tailor at the needle's eye.
+
+Thus 
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 3
+DATA:
+ackward return and let the trail go on."
+
+I said
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 4
+DATA:
+ld as one who goeth reverently.
+
+And he began:"W
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 5
+DATA:
+judged in the life beautiful.
+
+And if I had not 
+
+ACKNOLEDGE: sequence 22
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 22
+DATA:
+d others went about continually.
+
+Those who were
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 23
+DATA:
+pour
+Better extinguished was while it was single
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 24
+DATA:
+g and disdainful,
+So that the rain seems not to 
+
+DAMAGED DATA: sequence 24
+
+SENDING: sequence 24
+DATA:
+g and disdainful,
+So that the rain seems not to 
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 25
+DATA:
+ with all his might,
+He would not have thereby a
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 26
+DATA:
+;
+But, as I said to him, his own despites
+Are fo
+
+ACKNOLEDGE: sequence 27
+
+SENDING: sequence 27
+DATA:
+ping banks,
+Were made of stone, and the margins 
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 28
+DATA:
+the mid-sea there sits a wasted land,"
+Said he t
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 30
+DATA:
+egethon they form;
+Then downward go along this n
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 31
+DATA:
+ed.
+Therefore if something new appear to us,
+It 
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 2
+DATA:
+ows
+As an old tailor at the needle's eye.
+
+Thus 
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 3
+DATA:
+ackward return and let the trail go on."
+
+I said
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 4
+DATA:
+ld as one who goeth reverently.
+
+And he began:"W
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 5
+DATA:
+judged in the life beautiful.
+
+And if I had not 
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 6
+DATA:
+ake heed that of their customs thou do cleanse t
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 7
+DATA:
+ not yet would you be
+In banishment from human n
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 8
+DATA:
+do not chide me,
+For whatsoever Fortune I am rea
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 9
+DATA:
+to be silent,
+For short would be the time for so
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 10
+DATA:
+d discoursing
+Can be no longer; for that I behol
+
+ACKNOLEDGE: sequence 29
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 29
+DATA:
+s at Rome as if it were his mirror.
+
+His head is
+
+DAMAGED DATA: sequence 29
+
+SENDING: sequence 31
+DATA:
+ed.
+Therefore if something new appear to us,
+It 
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 0
+DATA:
+said he:"It is time now to abandon
+The wood; tak
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 1
+DATA:
+d their villas and their villages,
+Or ever Chiar
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 2
+DATA:
+ows
+As an old tailor at the needle's eye.
+
+Thus 
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 3
+DATA:
+ackward return and let the trail go on."
+
+I said
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 4
+DATA:
+ld as one who goeth reverently.
+
+And he began:"W
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 5
+DATA:
+judged in the life beautiful.
+
+And if I had not 
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 6
+DATA:
+ake heed that of their customs thou do cleanse t
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 7
+DATA:
+ not yet would you be
+In banishment from human n
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 8
+DATA:
+do not chide me,
+For whatsoever Fortune I am rea
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 9
+DATA:
+to be silent,
+For short would be the time for so
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 11
+DATA:
+h the beehives make,
+
+When shadows three togethe
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 12
+DATA:
+; " to these we should be courteous.
+
+And if it 
+
+ACKNOLEDGE: sequence 29
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 29
+DATA:
+s at Rome as if it were his mirror.
+
+His head is
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 30
+DATA:
+egethon they form;
+Then downward go along this n
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 31
+DATA:
+ed.
+Therefore if something new appear to us,
+It 
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 0
+DATA:
+said he:"It is time now to abandon
+The wood; tak
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 1
+DATA:
+d their villas and their villages,
+Or ever Chiar
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 3
+DATA:
+ackward return and let the trail go on."
+
+I said
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 4
+DATA:
+ld as one who goeth reverently.
+
+And he began:"W
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 6
+DATA:
+ake heed that of their customs thou do cleanse t
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 7
+DATA:
+ not yet would you be
+In banishment from human n
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 8
+DATA:
+do not chide me,
+For whatsoever Fortune I am rea
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 9
+DATA:
+to be silent,
+For short would be the time for so
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 10
+DATA:
+d discoursing
+Can be no longer; for that I behol
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 12
+DATA:
+; " to these we should be courteous.
+
+And if it 
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 13
+DATA:
+ to me, so that in opposite wise
+His nöck and fe
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 15
+DATA:
+e burned and baked myself,
+My terror overmastere
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 16
+DATA:
+uits
+Promised to me by the veracious Leader;
+But
+
+ACKNOLEDGE: sequence 2
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 2
+DATA:
+ows
+As an old tailor at the needle's eye.
+
+Thus 
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 3
+DATA:
+ackward return and let the trail òo on."
+
+I said
+
+DAMAGED DATA: sequence 3
+
+SENDING: sequence 3
+DATA:
+ackward return and let the trail go on."
+
+I said
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 4
+DATA:
+ld as one who goeth reverently.
+
+And he began:"W
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 5
+DATA:
+judged in the life beautiful.
+
+And if I had not 
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 6
+DATA:
+ake heed that of their customs thou do cleanse t
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 9
+DATA:
+to be silent,
+For short would be the time for so
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 11
+DATA:
+h the beehives make,
+
+When shadows three togethe
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 12
+DATA:
+; " to these we should be courteous.
+
+And if it 
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 14
+DATA:
+ Gualdrada;
+His name was Guidoguerra, and in lif
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 15
+DATA:
+e burned and baked myself,
+My terror overmastere
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 17
+DATA:
+ins,
+Pride and extravagance have in thee engende
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 19
+DATA:
+pennine,
+
+Which is above called Acquacheta, ere
+
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 20
+DATA:
+ had all from me unloosed,
+As my Conductor had c
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 21
+DATA:
+here will upward come
+What I await; and what thy
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 22
+DATA:
+ returns who goeth down
+Sometimes to clear an an
+
+ACKNOLEDGE: sequence 7
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 7
+DATA:
+ not yet would you be
+In banishment from human n
+
+DAMAGED DATA: sequence 7
+
+SENDING: sequence 7
+DATA:
+ not yet would you be
+In banishment from human n
+
+ACKNOLEDGE: sequence 8
+
+SENDING: sequence 8
+DATA:
+do not chide me,
+For whatsoever Fortune I am rea
+
+DAMAGED DATA: sequence 8
+
+SENDING: sequence 8
+DATA:
+do not chide me,
+Fêr whatsoever Fortune I am rea
+
+DAMAGED DATA: sequence 8
+
+SENDING: sequence 8
+DATA:
+do not chide me,
+For whatsoever Fortune I am rea
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 9
+DATA:
+to be silent,
+For short would be the time for so
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 10
+DATA:
+d discoursing
+Can be no longer; for that I behol
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 11
+DATA:
+h the beehives make,
+
+When shadows three togethe
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 12
+DATA:
+; " to these we should be courteous.
+
+And if it 
+
+DAMAGED DATA: sequence 12
+
+SENDING: sequence 12
+DATA:
+; " to these we should be courteous.
+
+And if it 
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 13
+DATA:
+ to me, so that in opposite wise
+His neck and fe
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 14
+DATA:
+ Gualdrada;
+His name was Guidoguerra, and in lif
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 15
+DATA:
+e burned and baked myself,
+My terror overmastere
+
+DAMAGED DATA: sequence 15
+
+SENDING: sequence 15
+DATA:
+e burned and baked myself,
+My terror overmastere
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 16
+DATA:
+uits
+Promised to me by the veracious Leader;
+But
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 17
+DATA:
+ins,
+Pride and extravagance have in thee engende
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 18
+DATA:
+ that thou speak of us unto the people."
+Then th
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 19
+DATA:
+pennine,
+
+Which is above called Acquacheta, ere
+
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 20
+DATA:
+ had all from me unloosed,
+As my Conductor had c
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 21
+DATA:
+here will upward come
+What I await; and what thy
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 23
+DATA:
+s head and bust,
+But on the border did not drag 
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 24
+DATA:
+ part on land;
+And as among the guzzling Germans
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 26
+DATA:
+ where sat the melancholy folk.
+
+Out of their ey
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 27
+DATA:
+ain colour had, and certain blazon;
+And thereupo
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 28
+DATA:
+hat a neighbour of mine, Vitaliano,
+Will have hi
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 29
+DATA:
+had already mounted
+Upon the back of that wild a
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 31
+DATA:
+mself afloat,
+
+There where his breast had been h
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 0
+DATA:
+ sight of everything but of the monster.
+
+Onward
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 1
+DATA:
+reat horrors
+That were approaching upon divers s
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 2
+DATA:
+a place in Hell called Malebolge,
+Wholly of ston
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 3
+DATA:
+rms,
+
+Just such an image those presented there;
+
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 4
+DATA:
+ was replete.
+
+Down at the bottom were the sinne
+
+ACKNOLEDGE: sequence 22
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 22
+DATA:
+ returns who goeth down
+Sometimes to clear an an
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 25
+DATA:
+the ouãer verge,
+Completely to avoid the sand an
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 26
+DATA:
+ where sat the melancholy folk.
+
+Out of their ey
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 27
+DATA:
+ain colour had, and certain blazon;
+And thereupo
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 29
+DATA:
+had already mounted
+Upon the back of that wild a
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 30
+DATA:
+ed me upon those monstrous shoulders;
+I wished t
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 31
+DATA:
+mself afloat,
+
+There where his breast had been h
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 0
+DATA:
+ sight of everything but of the monster.
+
+Onward
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 1
+DATA:
+reat horrors
+That were approaching upon divers s
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 2
+DATA:
+a place in Hell called Malebolge,
+Wholly of ston
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 3
+DATA:
+rms,
+
+Just such an image those presented there;
+
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 4
+DATA:
+ was replete.
+
+Down at the bottom were the sinne
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 5
+DATA:
+eating them behind.
+
+Ah me!how they did make the
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 6
+DATA:
+For said I:"Thou that castest down thine eyes
+
+I
+
+ACKNOLEDGE: sequence 23
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 23
+DATA:
+s head and bust,
+But on the border did not drag 
+
+DAMAGED DATA: sequence 23
+
+SENDING: sequence 23
+DATA:
+s head and bust,
+But on the border did not drag 
+
+DAMAGED DATA: sequence 23
+
+SENDING: sequence 23
+DATA:
+s head and bust,
+But on the border did not drag 
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 24
+DATA:
+ part on land;
+And as among the guzzling Germans
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 25
+DATA:
+the outer verge,
+Completely to avoid the sand an
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 26
+DATA:
+ where sat the melancholy folk.
+
+Out of their ey
+
+ACKNOLEDGE: sequence 27
+
+SENDING: sequence 27
+DATA:
+ain colour had, and certain blazon;
+And thereupo
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 28
+DATA:
+hat a neighbour of mine, Vitaliano,
+Will have hi
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 29
+DATA:
+had already mounted
+Upon the back of that wild a
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 30
+DATA:
+ed me upon those monstrous shoulders;
+∂ wished t
+
+DAMAGED DATA: sequence 30
+
+SENDING: sequence 30
+DATA:
+ed me upon those monstrous shoulders;
+I wished t
+
+DAMAGED DATA: sequence 30
+
+SENDING: sequence 30
+DATA:
+ed me upon those monstrous shoulders;
+I wished t
+
+DAMAGED DATA: sequence 30
+
+SENDING: sequence 30
+DATA:
+ed me upon those monstrous shoulders;
+I wished t
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 31
+DATA:
+mself afloat,
+
+There where his breast had been h
+
+DAMAGED DATA: sequence 31
+
+SENDING: sequence 31
+DATA:
+mself afloat,
+
+There where his breast had been h
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 0
+DATA:
+ sight of everything but of the monster.
+
+Onward
+
+DAMAGED DATA: sequence 0
+
+SENDING: sequence 0
+DATA:
+ sight of everything but of the monster.
+
+Onward
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 1
+DATA:
+reat horrors
+That were approaching upon divers s
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 2
+DATA:
+a place in Hell called Malebolge,
+Wholly of ston
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 3
+DATA:
+rms,
+
+Just such an image those presented there;
+
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 4
+DATA:
+ was replete.
+
+Down at the bottom were the sinne
+
+DAMAGED DATA: sequence 4
+
+SENDING: sequence 4
+DATA:
+ was replete.
+
+Down at the bottom were the sinne
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 5
+DATA:
+eating them behind.
+
+Ah me!how they did make the
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 6
+DATA:
+For said I:"Thou that castest down thine eyes
+
+I
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 7
+DATA:
+them,
+That not so many tongues to-day are taught
+
+ACKNOLEDGE: sequence 8
+
+SENDING: sequence 8
+DATA:
+those eternal circles we departe.
+
+When we were 
+
+DAMAGED DATA: sequence 8
+
+SENDING: sequence 8
+DATA:
+those eternal circles we departe.
+
+When we were 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 10
+DATA:
+ondemns him,
+And also for Medea is vengeance don
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 11
+DATA:
+low, that sticks there,
+And with the eyes and no
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 12
+DATA:
+o look at me more than the other foul ones?"
+And
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 13
+DATA:
+evelled drab,
+Who there doth scratch herself wit
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 14
+DATA:
+third Bolgia ye abide.
+
+We had already on the fo
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 15
+DATA:
+hioned for the place of the baptisers,
+
+And one 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 16
+DATA:
+only,
+So likewise was it there from heel to poin
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 18
+DATA:
+ried out:"Dost thou stand there already,
+Dost th
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 19
+DATA:
+Whereat the spirit writhed with both his feet,
+T
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, whenever
+That o
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 22
+DATA:
+against Charles.
+
+And were it not that still for
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 23
+DATA:
+rtue to her spouse was pleasing.
+
+Ye have made y
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 24
+DATA:
+lip he listened ever
+Unto the sound of the true 
+
+ACKNOLEDGE: sequence 9
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 9
+DATA:
+ll one who is coming,
+And for his pain seems not
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 11
+DATA:
+low, that sticks there,
+And with the eyes and no
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 12
+DATA:
+o look at me more than the other foul ones?"
+And
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 14
+DATA:
+third Bolgia ye abide.
+
+We had already on the fo
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 15
+DATA:
+hioned for the place of the baptisers,
+
+And one 
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 16
+DATA:
+only,
+So likewise was it there from heel to poin
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 17
+DATA:
+arrived;
+We turned, and on the left-hand side de
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 18
+DATA:
+ried out:"Dost thou stand there already,
+Dost th
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 19
+DATA:
+Whereat the spirit writhed with both his feet,
+T
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, whenever
+That o
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 22
+DATA:
+against Charles.
+
+And were it not that still for
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 23
+DATA:
+rtue to her spouse was pleasing.
+
+Ye have made y
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 24
+DATA:
+lip he listened ever
+Unto the sound of the true 
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 25
+DATA:
+
+
+OF a new pain behoves me to make verses
+And gi
+
+ACKNOLEDGE: sequence 10
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 10
+DATA:
+ondemns him,
+And also for Medea is vengeance don
+
+DAMAGED DATA: sequence 10
+
+SENDING: sequence 10
+DATA:
+ondemns him,
+And also for Medea is vengeance don
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 11
+DATA:
+low, that sticks there,
+And with the eyes and no
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 14
+DATA:
+third Bolgia ye abide.
+
+We had already on the fo
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 15
+DATA:
+hioned for the place of the baptisers,
+
+And one 
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 17
+DATA:
+arrived;
+We turned, and on the left-hand side de
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 18
+DATA:
+ried out:"Dost thou stand there already,
+Dost th
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, whenever
+That o
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 22
+DATA:
+against Charles.
+
+And were it not that still for
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 23
+DATA:
+rtue to her spouse was pleasing.
+
+Ye have made y
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 24
+DATA:
+lip he listened ever
+Unto the sound of the true 
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 26
+DATA:
+'rds the reins the countenance was turned,
+And b
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 27
+DATA:
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+ACKNOLEDGE: sequence 12
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 12
+DATA:
+o look at me more than the other foul ones?"
+And
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 13
+DATA:
+evelled drab,
+Who there doth scratch herself wit
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 14
+DATA:
+third Bolgia ye abide.
+
+We had already on the fo
+
+DAMAGED DATA: sequence 14
+
+SENDING: sequence 14
+DATA:
+third Bolgia ye abide.
+
+We had already on the fo
+
+DAMAGED DATA: sequence 14
+
+SENDING: sequence 14
+DATA:
+third Bolgia ye abide.
+
+We had already on the fo
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 15
+DATA:
+hioned for the place of the baptisers,
+
+And one 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 17
+DATA:
+arrived;
+We turned, and on the left-hand side de
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 18
+DATA:
+ried out:"Dost thou stand there already,
+Dost th
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 19
+DATA:
+Whereat the spirit writhed with both his feet,
+T
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, whenever
+That o
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 22
+DATA:
+against Charles.
+
+And were it not that still for
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 23
+DATA:
+rtue to her spouse was pleasing.
+
+Ye have made y
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 25
+DATA:
+
+
+OF a new pain behoves me to make verses
+And gi
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 27
+DATA:
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 28
+DATA:
+bosom of his shoulders!
+Because he wished to see
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 29
+DATA:
+rbles white a cavern had
+For his abode; whence t
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 31
+DATA:
+k descendeth lowest.
+
+There of necessity must fa
+
+ACKNOLEDGE: sequence 16
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 16
+DATA:
+oëly,
+So likewise was it there from heel to poin
+
+DAMAGED DATA: sequence 16
+
+SENDING: sequence 17
+DATA:
+arrived;
+We turned, and on the left-hand side de
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 19
+DATA:
+Whereat the spirit writhed with both his feet,
+T
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, whenever
+That o
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 22
+DATA:
+against Charles.
+
+And were it not that still for
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 24
+DATA:
+lip he listened ever
+Unto the sound of the true 
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 25
+DATA:
+
+
+OF a new pain behoves me to make verses
+And gi
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 26
+DATA:
+'rds the reins the countenance was turned,
+And b
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 27
+DATA:
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 28
+DATA:
+bosom of his shoulders!
+Because he wished to see
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 29
+DATA:
+rbles white a cavern had
+For his abode; whence t
+
+ACKNOLEDGE: sequence 16
+
+SENDING: sequence 31
+DATA:
+k descendeth lowest.
+
+There of necessity must fa
+
+ACKNOLEDGE: sequence 16
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 16
+DATA:
+only,
+So likewise was it there from heel to poin
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 18
+DATA:
+ried out:"Dost thou stand there already,
+Dost th
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 19
+DATA:
+Whereat the spirit writhed with both his feet,
+T
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, wóenever
+That o
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 22
+DATA:
+against Cóarles.
+
+And were it not that still for
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 23
+DATA:
+rtue to her spouse was pleasing.
+
+Ye have made y
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 25
+DATA:
+
+
+OF a new pain behoves me to make verses
+And gi
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 26
+DATA:
+'rds the reins the countenance was turned,
+And b
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 27
+DATA:
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 28
+DATA:
+bosom of his shoulders!
+Because he wished to see
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 30
+DATA:
+ world.
+
+Above in beauteous Italy lies a lake
+At
+
+ACKNOLEDGE: sequence 17
+
+SENDING: sequence 0
+DATA:
+re to escape all human intercourse,
+She with her
+
+ACKNOLEDGE: sequence 17
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 17
+DATA:
+arrived;
+We turned, and on the left-hand side de
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 19
+DATA:
+Whereat the spirit writhed with both his feet,
+T
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, whenever
+That o
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 24
+DATA:
+lip he listened ever
+Unto the sound of the true 
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 25
+DATA:
+
+
+OF a new pain behoves me to make verses
+And gi
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 26
+DATA:
+'rds the reins the countenance was turned,
+And b
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 27
+DATA:
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 28
+DATA:
+bosom of his shoulders!
+Because he wished to see
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 29
+DATA:
+rbles white a cavern had
+For his abode; whence t
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 30
+DATA:
+ world.
+
+Above in beauteous Italy lies a lake
+At
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 31
+DATA:
+k descendeth lowest.
+
+There of necessity must fa
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 0
+DATA:
+re to escape all human intercourse,
+She with her
+
+ACKNOLEDGE: sequence 18
+
+SENDING: sequence 1
+DATA:
+e I caution thee, if e'er thou hearest
+Originate
+
+ACKNOLEDGE: sequence 18
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 18
+DATA:
+ried out:"Dost thou stand there already,
+Dost th
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, whenever
+That o
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 22
+DATA:
+against Charles.
+
+And were it not that still for
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 23
+DATA:
+rtue to her spouse was pleasing.
+
+Ye have made y
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 24
+DATA:
+lip he listened ever
+Unto the sound of the true 
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 27
+DATA:
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 28
+DATA:
+bosom of his shoulders!
+Because he wished to see
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 29
+DATA:
+rbles white a cavern had
+For his abode; whence t
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 31
+DATA:
+k descendeth lowest.
+
+There of necessity must fa
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 1
+DATA:
+e I caution thee, if e'er thou hearest
+Originate
+
+ACKNOLEDGE: sequence 19
+
+SENDING: sequence 2
+DATA:
+rce remained one in the cradle,
+An augur, and wi
+
+ACKNOLEDGE: sequence 19
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 19
+DATA:
+Whereat the spirit writhed with both his feet,
+T
+
+ACKNOLEDGE: sequence 20
+
+SENDING: sequence 20
+DATA:
+low there I shall likewise fall, whenever
+That o
+
+ACKNOLEDGE: sequence 21
+
+SENDING: sequence 21
+DATA:
+"
+
+I do not know if I were here too bold,
+That h
+
+ACKNOLEDGE: sequence 22
+
+SENDING: sequence 22
+DATA:
+against Charles.
+
+And were it not that still for
+
+DAMAGED DATA: sequence 22
+
+SENDING: sequence 22
+DATA:
+against Charles.
+
+And were it not that still for
+
+ACKNOLEDGE: sequence 23
+
+SENDING: sequence 23
+DATA:
+rtue to her spouse was pleasing.
+
+Ye have made y
+
+ACKNOLEDGE: sequence 24
+
+SENDING: sequence 24
+DATA:
+lip he listened ever
+Unto the sound of the true 
+
+ACKNOLEDGE: sequence 25
+
+SENDING: sequence 25
+DATA:
+
+
+OF a new pain behoves me to make verses
+And gi
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 26
+DATA:
+'rds the reins the countenance was turned,
+And b
+
+DAMAGED DATA: sequence 26
+
+SENDING: sequence 27
+DATA:
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 29
+DATA:
+rbles white a cavern had
+For his abode; whence t
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 30
+DATA:
+ world.
+
+Above in beauteous Italy lies a lake
+At
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 31
+DATA:
+k descendeth lowest.
+
+There of necessity must fa
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 0
+DATA:
+re to escape all human intercourse,
+She with her
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 1
+DATA:
+e I caution thee, if e'er thou hearest
+Originate
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 2
+DATA:
+rce remained one in the cradle,
+An augur, and wi
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 3
+DATA:
+hed ones, who left the needle,
+The spool and roc
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 4
+DATA:
+ things
+Of which my Comedy cares not to sing,
+We
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 5
+DATA:
+ oars, and that one cordage twists,
+Another mend
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 6
+DATA:
+see what it behoves him to escape,
+And whom a su
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 8
+DATA:
+han in the Serchio;
+Therefore, if for our gaffs 
+
+ACKNOLEDGE: sequence 26
+
+SENDING: sequence 9
+DATA:
+ mayest have some screen;
+
+And for no outrage th
+
+ACKNOLEDGE: sequence 26
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 26
+DATA:
+'rds the reins the countenance was turned,
+And b
+
+ACKNOLEDGE: sequence 27
+
+SENDING: sequence 27
+DATA:
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 29
+DATA:
+rbles white a cavern had
+For his abode; whence t
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 30
+DATA:
+ world.
+
+Above in beauteous Italy lies a lake
+At
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 31
+DATA:
+k descendeth lowest.
+
+There of necessity must fa
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 0
+DATA:
+re to escape all human intercourse,
+She with her
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 1
+DATA:
+e I caution thee, if e'er thou hearest
+Originate
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 2
+DATA:
+rce remained one in the cradle,
+An augur, and wi
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 3
+DATA:
+hed ones, who left the needle,
+The spool and roc
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 4
+DATA:
+ things
+Of which my Comedy cares not to sing,
+We
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 5
+DATA:
+ oars, and that one cordage twists,
+Another mend
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 6
+DATA:
+see what it behoves him to escape,
+And whom a su
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 8
+DATA:
+han in the Serchio;
+Therefore, if for our gaffs 
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 10
+DATA:
+out: " Be none of you malignant!
+
+Before those h
+
+ACKNOLEDGE: sequence 28
+
+SENDING: sequence 11
+DATA:
+s willed
+That I another show this savage road."
+
+
+ACKNOLEDGE: sequence 28
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 28
+DATA:
+bosom of his shoulders!
+Because he wished to see
+
+DAMAGED DATA: sequence 28
+
+SENDING: sequence 28
+DATA:
+bosom of his shoulders!
+Because he wished to see
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 30
+DATA:
+ world.
+
+Above in beauteous Italy lies a lake
+At
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 31
+DATA:
+k descendeth lowest.
+
+There of necessity must fa
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 2
+DATA:
+rce remained one in the cradle,
+An augur, and wi
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 3
+DATA:
+hed ones, who left the needle,
+The spool and roc
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 4
+DATA:
+ things
+Of which my Comedy cares not to sing,
+We
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 5
+DATA:
+ oars, and that one cordage twists,
+Another mend
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 6
+DATA:
+see what it behoves him to escape,
+And whom a su
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 7
+DATA:
+,
+Behold one of the elders of Saint Zita;
+Plunge
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 8
+DATA:
+han in the Serchio;
+Therefore, if for our gaffs 
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 9
+DATA:
+ mayest have some screen;
+
+And for no outrage th
+
+ACKNOLEDGE: sequence 29
+
+SENDING: sequence 11
+DATA:
+s willed
+That I another show this savage road."
+
+
+ACKNOLEDGE: sequence 29
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 29
+DATA:
+rbles white a cavern had
+For his abode; whence t
+
+ACKNOLEDGE: sequence 30
+
+SENDING: sequence 30
+DATA:
+ world.
+
+Above in beauteous Italy lies a lake
+At
+
+ACKNOLEDGE: sequence 31
+
+SENDING: sequence 31
+DATA:
+k descendeth lowest.
+
+There of necessity must fa
+
+ACKNOLEDGE: sequence 0
+
+SENDING: sequence 0
+DATA:
+re to escape all human intercourse,
+She with her
+
+ACKNOLEDGE: sequence 1
+
+SENDING: sequence 1
+DATA:
+e I caution thee, if e'er thou hearest
+Originate
+
+ACKNOLEDGE: sequence 2
+
+SENDING: sequence 2
+DATA:
+rce remained one in the cradle,
+An augur, and wi
+
+DAMAGED DATA: sequence 2
+
+SENDING: sequence 2
+DATA:
+rce remained one in the cradle,
+An augur, and wi
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 4
+DATA:
+ things
+Of which my Comedy cares not to sing,
+We
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 5
+DATA:
+ oars, and that one cordage twists,
+Another mend
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 6
+DATA:
+see what it behoves him to escape,
+And whom a su
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 7
+DATA:
+,
+Behold one of the elders of Saint Zita;
+Plunge
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 8
+DATA:
+han in the Serchio;
+Therefore, if for our gaffs 
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 9
+DATA:
+ mayest have some screen;
+
+And for no outrage th
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 10
+DATA:
+out: " Be none of you malignant!
+
+Before those h
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 12
+DATA:
+nder safeguard from Caprona,
+Seeing themselves a
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 13
+DATA:
+ou can no farther go
+Forward upon this crag, bec
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 14
+DATA:
+Alichino and Calcabrina,"
+Began he to cry out, "
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 15
+DATA:
+bservant as thy wont is,
+Dost thou not see that 
+
+ACKNOLEDGE: sequence 3
+
+SENDING: sequence 16
+DATA:
+
+
+ACKNOLEDGE: sequence 3
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 3
+DATA:
+hed ones, who left the needle,
+The spool and roc
+
+ACKNOLEDGE: sequence 4
+
+SENDING: sequence 4
+DATA:
+ things
+Of which my Comedy cares not to sing,
+We
+
+ACKNOLEDGE: sequence 5
+
+SENDING: sequence 5
+DATA:
+ oars, and that one cordage twists,
+Another mend
+
+ACKNOLEDGE: sequence 6
+
+SENDING: sequence 6
+DATA:
+see what it behoves him to escape,
+And whom a su
+
+ACKNOLEDGE: sequence 7
+
+SENDING: sequence 7
+DATA:
+,
+Behold one of the elders of Saint Zita;
+Plunge
+
+ACKNOLEDGE: sequence 8
+
+SENDING: sequence 8
+DATA:
+han in the Serchio;
+Therefore, if for our gaffs 
+
+ACKNOLEDGE: sequence 9
+
+SENDING: sequence 9
+DATA:
+ mayest have some screen;
+
+And for no outrage th
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 11
+DATA:
+s willed
+That I another show this savage road."
+
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 12
+DATA:
+nder safeguard from Caprona,
+Seeing themselves a
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 14
+DATA:
+Alichino and Calcabrina,"
+Began he to cry out, "
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 15
+DATA:
+bservant as thy wont is,
+Dost thou not see that 
+
+ACKNOLEDGE: sequence 10
+
+SENDING: sequence 16
+DATA:
+
+
+ACKNOLEDGE: sequence 10
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 10
+DATA:
+out: " Be none of you malignant!
+
+Before those h
+
+ACKNOLEDGE: sequence 11
+
+SENDING: sequence 11
+DATA:
+s willed
+That I another show this savage road."
+
+
+ACKNOLEDGE: sequence 12
+
+SENDING: sequence 12
+DATA:
+nder safeguard from Caprona,
+Seeing themselves a
+
+DAMAGED DATA: sequence 12
+
+SENDING: sequence 12
+DATA:
+nder safeguard from Caprona,
+Seeing themselves a
+
+ACKNOLEDGE: sequence 13
+
+SENDING: sequence 13
+DATA:
+ou can no farther go
+Forward upon this crag, bec
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 15
+DATA:
+bservant as thy wont is,
+Dost thou not see that 
+
+ACKNOLEDGE: sequence 14
+
+SENDING: sequence 16
+DATA:
+
+
+ACKNOLEDGE: sequence 14
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 14
+DATA:
+Alichino and Calcabrina,"
+Began he to cry out, "
+
+ACKNOLEDGE: sequence 15
+
+SENDING: sequence 15
+DATA:
+bservant as thy wont is,
+Dost thou not see that 
+
+ACKNOLEDGE: sequence 16
+
+TIMEOUT: Retransmitting current window
+
+TIMEOUT: Retransmitting current window
+
+TIMEOUT: Retransmitting current window
+
+SENDING: sequence 16
+DATA:
+
+
+ACKNOLEDGE: sequence 17
+
+FINISHED: Successful GET command completed
+
+Waiting for client connection...
+
+^C
+[01;32mmaclellant@maclellant-virtual-machine[01;34m /mnt/hgfs/ReliableGoBackN/server $[00m exit
+
+Script done on Wed 23 Apr 2014 11:34:43 PM CDT

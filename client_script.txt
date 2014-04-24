@@ -1,0 +1,6781 @@
+Script started on Wed 23 Apr 2014 11:33:59 PM CDT
+[01;32mmaclellant@maclellant-virtual-machine[01;34m /mnt/hgfs/ReliableGoBackN/client $[00m ./client 10053 192.168.60.129 10050 GET Inferno.txt
+Attempting to talk with server at 192.168.60.129:10050
+RECEIVED: sequence 0
+DATA:
+
+INFERNO
+
+CANTO 1
+
+MIDWAY upon the journey of our
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 1: damaged packet
+
+SENDING NAK: sequence 1
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 1
+DATA:
+
+the true way.
+
+But after I had reached a mountai
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 2
+DATA:
+
+r perilous and gazes;
+
+So did my soul, that stil
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 3: damaged packet
+
+SENDING NAK: sequence 3
+
+DAMAGED: sequence 3: damaged packet
+
+SENDING NAK: sequence 3
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+RECEIVED: sequence 3
+DATA:
+
+
+
+The time was the beginning of the morning,
+And
+
+SENDING ACK: sequence 4
+
+RECEIVED: sequence 4
+DATA:
+
+afraid of him;
+
+And a she-wolf, that with all hu
+
+SENDING ACK: sequence 5
+
+RECEIVED: sequence 5
+DATA:
+
+here the sun is silent
+
+While I was rushing down
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 6
+DATA:
+
+e and Iying gods.
+
+A poet was I, and I sang that
+
+SENDING ACK: sequence 7
+
+RECEIVED: sequence 7
+DATA:
+
+e impelled me to explore thy volume!
+
+Thou art m
+
+SENDING ACK: sequence 8
+
+DAMAGED: sequence 8: damaged packet
+
+SENDING NAK: sequence 8
+
+RECEIVED: sequence 8
+DATA:
+
+ass her way,
+But so doth harass him, that she de
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 9
+DATA:
+
+unt the maid Camilla died,
+Euryalus, Turnus, Nis
+
+SENDING ACK: sequence 10
+
+DAMAGED: sequence 10: damaged packet
+
+SENDING NAK: sequence 10
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 10
+DATA:
+
+ contented are
+Within the fire, because they hop
+
+SENDING ACK: sequence 11
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 11
+
+RECEIVED: sequence 11
+DATA:
+
+entreat,
+By that same God whom thou didst never 
+
+SENDING ACK: sequence 12
+
+RECEIVED: sequence 12
+DATA:
+
+retrace, that erreth not.
+
+O Muses, O high geniu
+
+SENDING ACK: sequence 13
+
+DAMAGED: sequence 13: damaged packet
+
+SENDING NAK: sequence 13
+
+RECEIVED: sequence 13
+DATA:
+
+hat,
+
+To men of intellect unmeet it seems not;
+F
+
+SENDING ACK: sequence 14
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 14
+DATA:
+
+tion's way is the beginning.
+
+But I, why thither
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 15
+DATA:
+
+o very prompt in the beginning.
+
+"If I have well
+
+SENDING ACK: sequence 16
+
+RECEIVED: sequence 16
+DATA:
+
+wise, I besought her to command me.
+
+Her eyes wh
+
+SENDING ACK: sequence 17
+
+DAMAGED: sequence 17: damaged packet
+
+SENDING NAK: sequence 17
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 17
+DATA:
+
+m that which I have heard of him in Heaven.
+
+Bes
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+RECEIVED: sequence 18
+DATA:
+
+thin the heaven that has the lesser circles,
+
+So
+
+SENDING ACK: sequence 19
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 19
+DATA:
+
+ others harm;
+Of the rest, no; because they are 
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 20: damaged packet
+
+SENDING NAK: sequence 20
+
+RECEIVED: sequence 20
+DATA:
+
+e I was sitting with the ancient Rachel.
+
+"Beatr
+
+SENDING ACK: sequence 21
+
+RECEIVED: sequence 21
+DATA:
+
+ignified discourse,
+Which honours thee, and thos
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 22
+DATA:
+
+ing for thee in the court of Heaven,
+And so much
+
+SENDING ACK: sequence 23
+
+RECEIVED: sequence 23
+DATA:
+
+so with desire disposed
+To the adventure, with t
+
+SENDING ACK: sequence 24
+
+RECEIVED: sequence 24
+DATA:
+
+he primal Love.
+
+Before me there were no created
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 25
+DATA:
+
+after he had laid his hand on mine
+With joyful m
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 26: damaged packet
+
+SENDING NAK: sequence 26
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 26: damaged packet
+
+SENDING NAK: sequence 26
+
+RECEIVED: sequence 26
+DATA:
+
+ had my head with horror bound,
+Said:"Master, wh
+
+SENDING ACK: sequence 27
+
+DAMAGED: sequence 27: damaged packet
+
+SENDING NAK: sequence 27
+
+RECEIVED: sequence 27
+DATA:
+
+them."
+
+And I: "O Master, what so grievous is
+To
+
+SENDING ACK: sequence 28
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 28
+DATA:
+
+ me indignant;
+
+And after it there came so long 
+
+SENDING ACK: sequence 29
+
+RECEIVED: sequence 29
+DATA:
+
+here.
+
+These did their faces irrigate with blood
+
+SENDING ACK: sequence 30
+
+RECEIVED: sequence 30
+DATA:
+
+cheron."
+
+Then with mine eyes ashamed and downwa
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+RECEIVED: sequence 31
+DATA:
+
+ did not withdraw,
+
+He said:"By other ways, by o
+
+SENDING ACK: sequence 0
+
+DAMAGED: sequence 0: damaged packet
+
+SENDING NAK: sequence 0
+
+RECEIVED: sequence 0
+DATA:
+
+ together,
+As soon as they had heard those cruel
+
+SENDING ACK: sequence 1
+
+RECEIVED: sequence 1
+DATA:
+
+nother, till the branch
+Unto the earth surrender
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+DAMAGED: sequence 2: damaged packet
+
+SENDING NAK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+RECEIVED: sequence 2
+DATA:
+
+s them on,
+So that their fear is turned into des
+
+SENDING ACK: sequence 3
+
+RECEIVED: sequence 3
+DATA:
+
+eep lethargy within my head
+A heavy thunder, so 
+
+SENDING ACK: sequence 4
+
+DAMAGED: sequence 4: damaged packet
+
+SENDING NAK: sequence 4
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+RECEIVED: sequence 4
+DATA:
+
+rld,"
+Began the Poet, pallid utterly;
+"I will be
+
+SENDING ACK: sequence 5
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 5
+DATA:
+
+ere lamentations none, but only sighs,
+That trem
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 6: damaged packet
+
+SENDING NAK: sequence 6
+
+RECEIVED: sequence 6
+DATA:
+
+e Christianity,
+In the right manner they adored 
+
+SENDING ACK: sequence 7
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 7
+DATA:
+
+merit hence,
+Or by another s, who was blessed th
+
+SENDING ACK: sequence 8
+
+RECEIVED: sequence 8
+DATA:
+
+u must know, that earlier than these
+Never were 
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 9
+DATA:
+
+y these be, which such great honour have,
+That f
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+RECEIVED: sequence 10
+DATA:
+
+Master:
+"Him with that falchion in his hand beho
+
+SENDING ACK: sequence 11
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 11
+DATA:
+
+t,
+They turned to me with signs of salutation,
+A
+
+SENDING ACK: sequence 12
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 12
+DATA:
+
+ough portals seven I entered with these
+We came 
+
+SENDING ACK: sequence 13
+
+RECEIVED: sequence 13
+DATA:
+
+ knew both Hector and Aenas,
+Caesar in armour wi
+
+SENDING ACK: sequence 14
+
+RECEIVED: sequence 14
+DATA:
+
+ before the others stand;
+
+Democritus, who puts 
+
+SENDING ACK: sequence 15
+
+RECEIVED: sequence 15
+DATA:
+
+y in two divides;
+Another way my sapient Guide c
+
+SENDING ACK: sequence 16
+
+DAMAGED: sequence 16: damaged packet
+
+SENDING NAK: sequence 16
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+RECEIVED: sequence 16
+DATA:
+
+;
+And this discriminator of transgressions
+
+Seet
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 17: damaged packet
+
+SENDING NAK: sequence 17
+
+RECEIVED: sequence 17
+DATA:
+
+al's amplitude deceive thee."
+And unto him my Gu
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 18
+DATA:
+
+spirits onward in its rapine;
+Whirling them roun
+
+SENDING ACK: sequence 19
+
+DAMAGED: sequence 19: damaged packet
+
+SENDING NAK: sequence 19
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 19
+DATA:
+
+m;
+No hope doth comfort them for evermore,
+Not o
+
+SENDING ACK: sequence 20
+
+RECEIVED: sequence 20
+DATA:
+
+ned,
+That lustful she made licit in her law,
+To 
+
+SENDING ACK: sequence 21
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 21
+DATA:
+
+thousand
+Shades did he name and point out with h
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 22
+DATA:
+
+r direction sways them,
+My voice uplift I: "O ye
+
+SENDING ACK: sequence 23
+
+RECEIVED: sequence 23
+DATA:
+
+ng of the Universe our friend,
+We would pray unt
+
+SENDING ACK: sequence 24
+
+RECEIVED: sequence 24
+DATA:
+
+.
+
+Love, that exempts no one beloved from loving
+
+SENDING ACK: sequence 25
+
+RECEIVED: sequence 25
+DATA:
+
+nto the dolorous pass!"
+
+Then unto them I turned
+
+SENDING ACK: sequence 26
+
+DAMAGED: sequence 26: damaged packet
+
+SENDING NAK: sequence 26
+
+DAMAGED: sequence 26: damaged packet
+
+SENDING NAK: sequence 26
+
+DAMAGED: sequence 26: damaged packet
+
+SENDING NAK: sequence 26
+
+RECEIVED: sequence 26
+DATA:
+
+o weeps and speaks.
+
+One day we reading were for
+
+SENDING ACK: sequence 27
+
+RECEIVED: sequence 27
+DATA:
+
+ did we read therein."
+
+And all the while one sp
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+RECEIVED: sequence 28
+DATA:
+
+ and heavy;
+Its law and quality are never new.
+
+
+
+SENDING ACK: sequence 29
+
+RECEIVED: sequence 29
+DATA:
+
+ake a shelter for the other;
+Oft turn themselves
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+RECEIVED: sequence 30
+DATA:
+
+ filth-begrimed
+Of Cerberus the demon, who so th
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 31
+DATA:
+
+hich thou hast
+Perhaps doth draw thee out of my 
+
+SENDING ACK: sequence 0
+
+RECEIVED: sequence 0
+DATA:
+
+ly one,
+For all these suffer the like penalty
+Fo
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+RECEIVED: sequence 1
+DATA:
+
+it this one fall
+Within three suns, and rise aga
+
+SENDING ACK: sequence 2
+
+RECEIVED: sequence 2
+DATA:
+
+gghiaio, once so worthy,
+Jacopo Rusticucci, Arri
+
+SENDING ACK: sequence 3
+
+RECEIVED: sequence 3
+DATA:
+
+o more I answer."
+
+Then his straightforward eyes
+
+SENDING ACK: sequence 4
+
+RECEIVED: sequence 4
+DATA:
+
+low,
+Touching a little on the future life.
+
+Wher
+
+SENDING ACK: sequence 5
+
+RECEIVED: sequence 5
+DATA:
+
+;
+We came unto the point where the descent is;
+
+
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 6
+
+RECEIVED: sequence 6
+DATA:
+
+rney to the abyss;
+Thus is it willed on high, wh
+
+SENDING ACK: sequence 7
+
+DAMAGED: sequence 7: damaged packet
+
+SENDING NAK: sequence 7
+
+RECEIVED: sequence 7
+DATA:
+
+re upon Charybdis,
+That breaks itself on that wh
+
+SENDING ACK: sequence 8
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 8
+DATA:
+
+e evermore.
+
+Then each, when he arrived there, w
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 9: damaged packet
+
+SENDING NAK: sequence 9
+
+RECEIVED: sequence 9
+DATA:
+
+nders them the opposite defect.
+
+Clerks those we
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 10
+DATA:
+
+ the fist closed, and these with tresses shorn.
+
+
+SENDING ACK: sequence 11
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 11
+DATA:
+
+une which thou speakest of,
+That has the world's
+
+SENDING ACK: sequence 12
+
+RECEIVED: sequence 12
+DATA:
+
+the empty treasures
+From race to race, from one 
+
+SENDING ACK: sequence 13
+
+RECEIVED: sequence 13
+DATA:
+
+cified
+Even by those who ought to give her prais
+
+SENDING ACK: sequence 14
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 14
+DATA:
+
+han perse;
+And we, in company with the dusky wav
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 15
+DATA:
+
+aster:"Son, thou now beholdest
+The souls of thos
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 16: damaged packet
+
+SENDING NAK: sequence 16
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+RECEIVED: sequence 16
+DATA:
+
+t say it."
+
+Thus we went circling round the filt
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 17
+DATA:
+
+: " What sayeth this, and what respondeth
+That o
+
+SENDING ACK: sequence 18
+
+RECEIVED: sequence 18
+DATA:
+
+is once," said my Lord; " thou shalt not have
+Lo
+
+SENDING ACK: sequence 19
+
+RECEIVED: sequence 19
+DATA:
+
+ dead canal,
+Uprose in front of me one full of m
+
+SENDING ACK: sequence 20
+
+RECEIVED: sequence 20
+DATA:
+
+s!"
+
+Thereafter with his arms he clasped my neck
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 21
+
+RECEIVED: sequence 21
+DATA:
+
+t of the lake."
+
+And he to me:"Ere unto thee the
+
+SENDING ACK: sequence 22
+
+RECEIVED: sequence 22
+DATA:
+
+ent unbar mine eyes.
+
+And the good Master said:"
+
+SENDING ACK: sequence 23
+
+RECEIVED: sequence 23
+DATA:
+
+eared to me to be of iron.
+
+Not without making f
+
+SENDING ACK: sequence 24
+
+RECEIVED: sequence 24
+DATA:
+
+Who has so boldly entered these dominions.
+
+Let 
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+RECEIVED: sequence 25
+DATA:
+
+e our steps together swiftly."
+
+And that Lord, w
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 26: damaged packet
+
+SENDING NAK: sequence 26
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 26
+DATA:
+
+ch within in rivalry ran back.
+
+They closed the 
+
+SENDING ACK: sequence 27
+
+DAMAGED: sequence 27: damaged packet
+
+SENDING NAK: sequence 27
+
+RECEIVED: sequence 27
+DATA:
+
+ret gate,
+Which finds itself without a fastening
+
+SENDING ACK: sequence 28
+
+RECEIVED: sequence 28
+DATA:
+
+vy fog.
+
+"Still it behoveth us to win the fight,
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 29
+DATA:
+
+pain has only hope cut off?"
+
+This question put 
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+RECEIVED: sequence 30
+DATA:
+
+I the way; therefore be reassured.
+
+This fen, wh
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 31: damaged packet
+
+SENDING NAK: sequence 31
+
+DAMAGED: sequence 31: damaged packet
+
+SENDING NAK: sequence 31
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 31
+DATA:
+
+r tresses,
+Wherewith their horrid temples were e
+
+SENDING ACK: sequence 0
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 0
+
+RECEIVED: sequence 0
+DATA:
+
+uted looking down; "in evil hour
+Avenged we not 
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 1
+DATA:
+
+bid waves
+The clangour of a sound with terror fr
+
+SENDING ACK: sequence 2
+
+RECEIVED: sequence 2
+DATA:
+
+nse."
+
+Even as the frogs before the hostile serp
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 3
+DATA:
+
+and bow before him.
+
+Ah I how disdainful he appe
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 4
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 4: damaged packet
+
+SENDING NAK: sequence 4
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 4
+DATA:
+
+ bears his chin and gullet peeled."
+
+Then he ret
+
+SENDING ACK: sequence 5
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 5
+DATA:
+
+ment terrible.
+
+Even as at Arles, where stagnant
+
+SENDING ACK: sequence 6
+
+RECEIVED: sequence 6
+DATA:
+
+ey of the wretched and tormented.
+
+And I:"My Mas
+
+SENDING ACK: sequence 7
+
+RECEIVED: sequence 7
+DATA:
+
+a narrow path
+Between the torments and the city 
+
+SENDING ACK: sequence 8
+
+RECEIVED: sequence 8
+DATA:
+
+de
+With Epicurus all his followers,
+Who with the
+
+SENDING ACK: sequence 9
+
+RECEIVED: sequence 9
+DATA:
+
+nifest
+A native of that noble fatherland,
+To whi
+
+SENDING ACK: sequence 10
+
+RECEIVED: sequence 10
+DATA:
+
+ Leader
+Thrust me between the sepulchres towards
+
+SENDING ACK: sequence 11
+
+RECEIVED: sequence 11
+DATA:
+
+they returned on all sides,"
+I answered him, " t
+
+SENDING ACK: sequence 12
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 12
+DATA:
+
+
+
+And I to him:"I come not of myself;
+He who is 
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 13
+DATA:
+
+gnanimous, at whose desire
+I had remained, did n
+
+SENDING ACK: sequence 14
+
+RECEIVED: sequence 14
+DATA:
+
+
+Whence I to him:"The slaughter and great carnag
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 15: damaged packet
+
+SENDING NAK: sequence 15
+
+RECEIVED: sequence 15
+DATA:
+
+ons here.
+
+It seems that you can see, if I hear 
+
+SENDING ACK: sequence 16
+
+RECEIVED: sequence 16
+DATA:
+
+he portal of the future shall be closed."
+
+Then 
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 17
+DATA:
+
+ Frederick,
+And the Cardinal, and of the rest I 
+
+SENDING ACK: sequence 18
+
+RECEIVED: sequence 18
+DATA:
+
+eft the wall, and went towards the middle,
+Along
+
+SENDING ACK: sequence 19
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 19
+DATA:
+
+sense be first a little used
+To the sad blast, a
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 20
+DATA:
+
+t wins hate in Heaven,
+Injury is the end; and al
+
+SENDING ACK: sequence 21
+
+RECEIVED: sequence 21
+DATA:
+
+ifest.
+
+A death by violence, and painful wounds,
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 22
+DATA:
+
+ld jocund be.
+
+Violence can be done the Deity,
+I
+
+SENDING ACK: sequence 23
+
+RECEIVED: sequence 23
+DATA:
+
+e nestle
+
+Hypocrisy, flattery, and who deals in 
+
+SENDING ACK: sequence 24
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 24
+
+RECEIVED: sequence 24
+DATA:
+
+eople who possess it.
+
+But tell me, those within
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 25
+
+RECEIVED: sequence 25
+DATA:
+
+God offendeth, and less blame attracts?
+
+If thou
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 26
+DATA:
+
+yest that usury offends
+Goodness divine, and dis
+
+SENDING ACK: sequence 27
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 27
+DATA:
+
+follower
+Disdains he, for elsewhere he puts his 
+
+SENDING ACK: sequence 28
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 28: damaged packet
+
+SENDING NAK: sequence 28
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 28
+DATA:
+
+mountain's top, from which it moved,
+Unto the pl
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 29
+DATA:
+
+Get thee gone, beast, for this one cometh not
+In
+
+SENDING ACK: sequence 30
+
+DAMAGED: sequence 30: damaged packet
+
+SENDING NAK: sequence 30
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 30
+
+DAMAGED: sequence 30: damaged packet
+
+SENDING NAK: sequence 30
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 30
+DATA:
+
+r which just now I quenched.
+
+Now will I have th
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 31
+DATA:
+
+lsewhere made such overthrow.
+
+But fix thine eye
+
+SENDING ACK: sequence 0
+
+RECEIVED: sequence 0
+DATA:
+
+d they used the chase to follow.
+
+Beholding us d
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 1
+DATA:
+
+ely Dejanira,
+And for himself, himself did venge
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 2: damaged packet
+
+SENDING NAK: sequence 2
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 2
+DATA:
+
+aid to his companions:"Are you ware
+That he behi
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+RECEIVED: sequence 3
+DATA:
+
+ng
+My steps along this savage thoroughfare,
+Give
+
+SENDING ACK: sequence 4
+
+RECEIVED: sequence 4
+DATA:
+
+ up to the eyebrows,
+And the great Centaur said:
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 5
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 5
+DATA:
+
+Centaur stopped
+Above a folk, who far down as th
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 6
+DATA:
+
+here upon this side beholdest
+The boiling stream
+
+SENDING ACK: sequence 7
+
+RECEIVED: sequence 7
+DATA:
+
+ passed again the ford.
+
+CANTO 13
+
+NOT yet had N
+
+SENDING ACK: sequence 8
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 8
+DATA:
+
+e Trojans from the Strophades,
+With sad announce
+
+SENDING ACK: sequence 9
+
+RECEIVED: sequence 9
+DATA:
+
+sides lamentations uttered,
+And person none behe
+
+SENDING ACK: sequence 10
+
+RECEIVED: sequence 10
+DATA:
+
+ied, " Why dost thou mangle me?"
+
+After it had b
+
+SENDING ACK: sequence 11
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 11
+DATA:
+
+let the tip
+Fall, and stood like a man who is af
+
+SENDING ACK: sequence 12
+
+RECEIVED: sequence 12
+DATA:
+
+ou be vexed not,
+That I a little to discourse am
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 13
+
+RECEIVED: sequence 13
+DATA:
+
+so inflame Augustus,
+That my glad honours turned
+
+SENDING ACK: sequence 14
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 14
+DATA:
+
+to me, " lose not the time,
+But speak, and quest
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 15
+DATA:
+
+d
+The wind was into such a voice converted:
+"Wit
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+RECEIVED: sequence 16
+DATA:
+
+that any one may them revest,
+For 'tis not just 
+
+SENDING ACK: sequence 17
+
+RECEIVED: sequence 17
+DATA:
+
+
+Naked and scratched, fleeing so furiously,
+That
+
+SENDING ACK: sequence 18
+
+RECEIVED: sequence 18
+DATA:
+
+ad crouched down they set their teeth,
+And him t
+
+SENDING ACK: sequence 19
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 19
+DATA:
+
+us speech?"
+
+And he to us:"O souls, that hither 
+
+SENDING ACK: sequence 20
+
+RECEIVED: sequence 20
+DATA:
+
+own house I made myself a gibbet."
+
+CANTO 14
+
+BE
+
+SENDING ACK: sequence 21
+
+DAMAGED: sequence 21: damaged packet
+
+SENDING NAK: sequence 21
+
+RECEIVED: sequence 21
+DATA:
+
+hat;
+There close upon the edge we stayed our fee
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+RECEIVED: sequence 22
+DATA:
+
+d others went about continually.
+
+Those who were
+
+SENDING ACK: sequence 23
+
+RECEIVED: sequence 23
+DATA:
+
+pour
+Better extinguished was while it was single
+
+SENDING ACK: sequence 24
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 24: damaged packet
+
+SENDING NAK: sequence 24
+
+RECEIVED: sequence 24
+DATA:
+
+g and disdainful,
+So that the rain seems not to 
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 25
+DATA:
+
+ with all his might,
+He would not have thereby a
+
+SENDING ACK: sequence 26
+
+RECEIVED: sequence 26
+DATA:
+
+;
+But, as I said to him, his own despites
+Are fo
+
+SENDING ACK: sequence 27
+
+RECEIVED: sequence 27
+DATA:
+
+ping banks,
+Were made of stone, and the margins 
+
+SENDING ACK: sequence 28
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 28
+DATA:
+
+the mid-sea there sits a wasted land,"
+Said he t
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+DAMAGED: sequence 29: damaged packet
+
+SENDING NAK: sequence 29
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 29
+DATA:
+
+s at Rome as if it were his mirror.
+
+His head is
+
+SENDING ACK: sequence 30
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 30
+DATA:
+
+egethon they form;
+Then downward go along this n
+
+SENDING ACK: sequence 31
+
+RECEIVED: sequence 31
+DATA:
+
+ed.
+Therefore if something new appear to us,
+It 
+
+SENDING ACK: sequence 0
+
+RECEIVED: sequence 0
+DATA:
+
+said he:"It is time now to abandon
+The wood; tak
+
+SENDING ACK: sequence 1
+
+RECEIVED: sequence 1
+DATA:
+
+d their villas and their villages,
+Or ever Chiar
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 2
+DATA:
+
+ows
+As an old tailor at the needle's eye.
+
+Thus 
+
+SENDING ACK: sequence 3
+
+DAMAGED: sequence 3: damaged packet
+
+SENDING NAK: sequence 3
+
+RECEIVED: sequence 3
+DATA:
+
+ackward return and let the trail go on."
+
+I said
+
+SENDING ACK: sequence 4
+
+RECEIVED: sequence 4
+DATA:
+
+ld as one who goeth reverently.
+
+And he began:"W
+
+SENDING ACK: sequence 5
+
+RECEIVED: sequence 5
+DATA:
+
+judged in the life beautiful.
+
+And if I had not 
+
+SENDING ACK: sequence 6
+
+RECEIVED: sequence 6
+DATA:
+
+ake heed that of their customs thou do cleanse t
+
+SENDING ACK: sequence 7
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 7
+
+DAMAGED: sequence 7: damaged packet
+
+SENDING NAK: sequence 7
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 7
+DATA:
+
+ not yet would you be
+In banishment from human n
+
+SENDING ACK: sequence 8
+
+DAMAGED: sequence 8: damaged packet
+
+SENDING NAK: sequence 8
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 8: damaged packet
+
+SENDING NAK: sequence 8
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 8
+DATA:
+
+do not chide me,
+For whatsoever Fortune I am rea
+
+SENDING ACK: sequence 9
+
+RECEIVED: sequence 9
+DATA:
+
+to be silent,
+For short would be the time for so
+
+SENDING ACK: sequence 10
+
+RECEIVED: sequence 10
+DATA:
+
+d discoursing
+Can be no longer; for that I behol
+
+SENDING ACK: sequence 11
+
+RECEIVED: sequence 11
+DATA:
+
+h the beehives make,
+
+When shadows three togethe
+
+SENDING ACK: sequence 12
+
+DAMAGED: sequence 12: damaged packet
+
+SENDING NAK: sequence 12
+
+RECEIVED: sequence 12
+DATA:
+
+; " to these we should be courteous.
+
+And if it 
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 13
+DATA:
+
+ to me, so that in opposite wise
+His neck and fe
+
+SENDING ACK: sequence 14
+
+RECEIVED: sequence 14
+DATA:
+
+ Gualdrada;
+His name was Guidoguerra, and in lif
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 15: damaged packet
+
+SENDING NAK: sequence 15
+
+RECEIVED: sequence 15
+DATA:
+
+e burned and baked myself,
+My terror overmastere
+
+SENDING ACK: sequence 16
+
+RECEIVED: sequence 16
+DATA:
+
+uits
+Promised to me by the veracious Leader;
+But
+
+SENDING ACK: sequence 17
+
+RECEIVED: sequence 17
+DATA:
+
+ins,
+Pride and extravagance have in thee engende
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 18
+DATA:
+
+ that thou speak of us unto the people."
+Then th
+
+SENDING ACK: sequence 19
+
+RECEIVED: sequence 19
+DATA:
+
+pennine,
+
+Which is above called Acquacheta, ere
+
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 20
+DATA:
+
+ had all from me unloosed,
+As my Conductor had c
+
+SENDING ACK: sequence 21
+
+RECEIVED: sequence 21
+DATA:
+
+here will upward come
+What I await; and what thy
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 22
+
+RECEIVED: sequence 22
+DATA:
+
+ returns who goeth down
+Sometimes to clear an an
+
+SENDING ACK: sequence 23
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 23
+
+DAMAGED: sequence 23: damaged packet
+
+SENDING NAK: sequence 23
+
+DAMAGED: sequence 23: damaged packet
+
+SENDING NAK: sequence 23
+
+RECEIVED: sequence 23
+DATA:
+
+s head and bust,
+But on the border did not drag 
+
+SENDING ACK: sequence 24
+
+RECEIVED: sequence 24
+DATA:
+
+ part on land;
+And as among the guzzling Germans
+
+SENDING ACK: sequence 25
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 25
+DATA:
+
+the outer verge,
+Completely to avoid the sand an
+
+SENDING ACK: sequence 26
+
+RECEIVED: sequence 26
+DATA:
+
+ where sat the melancholy folk.
+
+Out of their ey
+
+SENDING ACK: sequence 27
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 27
+DATA:
+
+ain colour had, and certain blazon;
+And thereupo
+
+SENDING ACK: sequence 28
+
+RECEIVED: sequence 28
+DATA:
+
+hat a neighbour of mine, Vitaliano,
+Will have hi
+
+SENDING ACK: sequence 29
+
+RECEIVED: sequence 29
+DATA:
+
+had already mounted
+Upon the back of that wild a
+
+SENDING ACK: sequence 30
+
+DAMAGED: sequence 30: damaged packet
+
+SENDING NAK: sequence 30
+
+DAMAGED: sequence 30: damaged packet
+
+SENDING NAK: sequence 30
+
+DAMAGED: sequence 30: damaged packet
+
+SENDING NAK: sequence 30
+
+RECEIVED: sequence 30
+DATA:
+
+ed me upon those monstrous shoulders;
+I wished t
+
+SENDING ACK: sequence 31
+
+DAMAGED: sequence 31: damaged packet
+
+SENDING NAK: sequence 31
+
+RECEIVED: sequence 31
+DATA:
+
+mself afloat,
+
+There where his breast had been h
+
+SENDING ACK: sequence 0
+
+DAMAGED: sequence 0: damaged packet
+
+SENDING NAK: sequence 0
+
+RECEIVED: sequence 0
+DATA:
+
+ sight of everything but of the monster.
+
+Onward
+
+SENDING ACK: sequence 1
+
+RECEIVED: sequence 1
+DATA:
+
+reat horrors
+That were approaching upon divers s
+
+SENDING ACK: sequence 2
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 2
+DATA:
+
+a place in Hell called Malebolge,
+Wholly of ston
+
+SENDING ACK: sequence 3
+
+RECEIVED: sequence 3
+DATA:
+
+rms,
+
+Just such an image those presented there;
+
+
+SENDING ACK: sequence 4
+
+DAMAGED: sequence 4: damaged packet
+
+SENDING NAK: sequence 4
+
+RECEIVED: sequence 4
+DATA:
+
+ was replete.
+
+Down at the bottom were the sinne
+
+SENDING ACK: sequence 5
+
+RECEIVED: sequence 5
+DATA:
+
+eating them behind.
+
+Ah me!how they did make the
+
+SENDING ACK: sequence 6
+
+RECEIVED: sequence 6
+DATA:
+
+For said I:"Thou that castest down thine eyes
+
+I
+
+SENDING ACK: sequence 7
+
+RECEIVED: sequence 7
+DATA:
+
+them,
+That not so many tongues to-day are taught
+
+SENDING ACK: sequence 8
+
+DAMAGED: sequence 8: damaged packet
+
+SENDING NAK: sequence 8
+
+RECEIVED: sequence 8
+DATA:
+
+those eternal circles we departe.
+
+When we were 
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 9
+
+RECEIVED: sequence 9
+DATA:
+
+ll one who is coming,
+And for his pain seems not
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 10: damaged packet
+
+SENDING NAK: sequence 10
+
+RECEIVED: sequence 10
+DATA:
+
+ondemns him,
+And also for Medea is vengeance don
+
+SENDING ACK: sequence 11
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 11
+DATA:
+
+low, that sticks there,
+And with the eyes and no
+
+SENDING ACK: sequence 12
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 12
+
+RECEIVED: sequence 12
+DATA:
+
+o look at me more than the other foul ones?"
+And
+
+SENDING ACK: sequence 13
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 13
+DATA:
+
+evelled drab,
+Who there doth scratch herself wit
+
+SENDING ACK: sequence 14
+
+DAMAGED: sequence 14: damaged packet
+
+SENDING NAK: sequence 14
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 14: damaged packet
+
+SENDING NAK: sequence 14
+
+RECEIVED: sequence 14
+DATA:
+
+third Bolgia ye abide.
+
+We had already on the fo
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 15
+DATA:
+
+hioned for the place of the baptisers,
+
+And one 
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+DAMAGED: sequence 16: damaged packet
+
+SENDING NAK: sequence 16
+
+OUT OF ORDER: sequence 17: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 16
+
+RECEIVED: sequence 16
+DATA:
+
+only,
+So likewise was it there from heel to poin
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 18: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 17
+
+RECEIVED: sequence 17
+DATA:
+
+arrived;
+We turned, and on the left-hand side de
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 19: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 25: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 26: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 18
+
+RECEIVED: sequence 18
+DATA:
+
+ried out:"Dost thou stand there already,
+Dost th
+
+SENDING ACK: sequence 19
+
+OUT OF ORDER: sequence 20: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 21: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+OUT OF ORDER: sequence 22: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 23: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 24: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+OUT OF ORDER: sequence 28: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 19
+
+RECEIVED: sequence 19
+DATA:
+
+Whereat the spirit writhed with both his feet,
+T
+
+SENDING ACK: sequence 20
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 20
+DATA:
+
+low there I shall likewise fall, whenever
+That o
+
+SENDING ACK: sequence 21
+
+RECEIVED: sequence 21
+DATA:
+
+"
+
+I do not know if I were here too bold,
+That h
+
+SENDING ACK: sequence 22
+
+DAMAGED: sequence 22: damaged packet
+
+SENDING NAK: sequence 22
+
+RECEIVED: sequence 22
+DATA:
+
+against Charles.
+
+And were it not that still for
+
+SENDING ACK: sequence 23
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 23
+DATA:
+
+rtue to her spouse was pleasing.
+
+Ye have made y
+
+SENDING ACK: sequence 24
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 24
+DATA:
+
+lip he listened ever
+Unto the sound of the true 
+
+SENDING ACK: sequence 25
+
+RECEIVED: sequence 25
+DATA:
+
+
+
+OF a new pain behoves me to make verses
+And gi
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+DAMAGED: sequence 26: damaged packet
+
+SENDING NAK: sequence 26
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 27: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 26
+
+RECEIVED: sequence 26
+DATA:
+
+'rds the reins the countenance was turned,
+And b
+
+SENDING ACK: sequence 27
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 27
+DATA:
+
+ly I wept, leaning upon a peak
+Of the hard crag,
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 29: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 0: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 1: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 28
+
+DAMAGED: sequence 28: damaged packet
+
+SENDING NAK: sequence 28
+
+RECEIVED: sequence 28
+DATA:
+
+bosom of his shoulders!
+Because he wished to see
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 30: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 31: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 2: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 3: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 29
+
+RECEIVED: sequence 29
+DATA:
+
+rbles white a cavern had
+For his abode; whence t
+
+SENDING ACK: sequence 30
+
+RECEIVED: sequence 30
+DATA:
+
+ world.
+
+Above in beauteous Italy lies a lake
+At
+
+SENDING ACK: sequence 31
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 31
+DATA:
+
+k descendeth lowest.
+
+There of necessity must fa
+
+SENDING ACK: sequence 0
+
+RECEIVED: sequence 0
+DATA:
+
+re to escape all human intercourse,
+She with her
+
+SENDING ACK: sequence 1
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 1
+DATA:
+
+e I caution thee, if e'er thou hearest
+Originate
+
+SENDING ACK: sequence 2
+
+DAMAGED: sequence 2: damaged packet
+
+SENDING NAK: sequence 2
+
+RECEIVED: sequence 2
+DATA:
+
+rce remained one in the cradle,
+An augur, and wi
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 4: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 5: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 6: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 7: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 8: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 9: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 10: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 13: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 3
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 3
+DATA:
+
+hed ones, who left the needle,
+The spool and roc
+
+SENDING ACK: sequence 4
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 4
+DATA:
+
+ things
+Of which my Comedy cares not to sing,
+We
+
+SENDING ACK: sequence 5
+
+RECEIVED: sequence 5
+DATA:
+
+ oars, and that one cordage twists,
+Another mend
+
+SENDING ACK: sequence 6
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 6
+DATA:
+
+see what it behoves him to escape,
+And whom a su
+
+SENDING ACK: sequence 7
+
+RECEIVED: sequence 7
+DATA:
+
+,
+Behold one of the elders of Saint Zita;
+Plunge
+
+SENDING ACK: sequence 8
+
+RECEIVED: sequence 8
+DATA:
+
+han in the Serchio;
+Therefore, if for our gaffs 
+
+SENDING ACK: sequence 9
+
+RECEIVED: sequence 9
+DATA:
+
+ mayest have some screen;
+
+And for no outrage th
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 11: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 12: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 14: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 10
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 10
+DATA:
+
+out: " Be none of you malignant!
+
+Before those h
+
+SENDING ACK: sequence 11
+
+RECEIVED: sequence 11
+DATA:
+
+s willed
+That I another show this savage road."
+
+
+SENDING ACK: sequence 12
+
+DAMAGED: sequence 12: damaged packet
+
+SENDING NAK: sequence 12
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 12
+DATA:
+
+nder safeguard from Caprona,
+Seeing themselves a
+
+SENDING ACK: sequence 13
+
+RECEIVED: sequence 13
+DATA:
+
+ou can no farther go
+Forward upon this crag, bec
+
+SENDING ACK: sequence 14
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+OUT OF ORDER: sequence 15: incorrect sequence number
+
+SENDING ACK: sequence 14
+
+OUT OF ORDER: sequence 16: incorrect sequence number
+
+SENDING ACK: sequence 14
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 14
+DATA:
+
+Alichino and Calcabrina,"
+Began he to cry out, "
+
+SENDING ACK: sequence 15
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: sequence 15
+DATA:
+
+bservant as thy wont is,
+Dost thou not see that 
+
+SENDING ACK: sequence 16
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+TIMEOUT: Server not responding...
+
+RECEIVED: close packet for file transfer: closing transfer
+
+SENDING ACK: sequence 17
+
+SENDING SUCCESS MSG
+[01;32mmaclellant@maclellant-virtual-machine[01;34m /mnt/hgfs/ReliableGoBackN/client $[00m exit
+
+Script done on Wed 23 Apr 2014 11:34:29 PM CDT
